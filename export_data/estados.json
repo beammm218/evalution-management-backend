@@ -1,0 +1,197 @@
+[
+    {
+        "codestado": 22,
+        "siglaestado": "RO",
+        "nomeestado": "RONDÔNIA"
+    },
+    {
+        "codestado": 1,
+        "siglaestado": "AC",
+        "nomeestado": "ACRE"
+    },
+    {
+        "codestado": 4,
+        "siglaestado": "AM",
+        "nomeestado": "AMAZONAS"
+    },
+    {
+        "codestado": 23,
+        "siglaestado": "RR",
+        "nomeestado": "RORAIMA"
+    },
+    {
+        "codestado": 14,
+        "siglaestado": "PA",
+        "nomeestado": "PARÁ"
+    },
+    {
+        "codestado": 3,
+        "siglaestado": "AP",
+        "nomeestado": "AMAPÁ"
+    },
+    {
+        "codestado": 27,
+        "siglaestado": "TO",
+        "nomeestado": "TOCANTINS"
+    },
+    {
+        "codestado": 10,
+        "siglaestado": "MA",
+        "nomeestado": "MARANHÃO"
+    },
+    {
+        "codestado": 18,
+        "siglaestado": "PI",
+        "nomeestado": "PIAUÍ"
+    },
+    {
+        "codestado": 6,
+        "siglaestado": "CE",
+        "nomeestado": "CEARÁ"
+    },
+    {
+        "codestado": 20,
+        "siglaestado": "RN",
+        "nomeestado": "RIO GRANDE DO NORTE"
+    },
+    {
+        "codestado": 15,
+        "siglaestado": "PB",
+        "nomeestado": "PARAÍBA"
+    },
+    {
+        "codestado": 17,
+        "siglaestado": "PE",
+        "nomeestado": "PERNAMBUCO"
+    },
+    {
+        "codestado": 2,
+        "siglaestado": "AL",
+        "nomeestado": "ALAGOAS"
+    },
+    {
+        "codestado": 26,
+        "siglaestado": "SE",
+        "nomeestado": "SERGIPE"
+    },
+    {
+        "codestado": 5,
+        "siglaestado": "BA",
+        "nomeestado": "BAHIA"
+    },
+    {
+        "codestado": 13,
+        "siglaestado": "MG",
+        "nomeestado": "MINAS GERAIS"
+    },
+    {
+        "codestado": 8,
+        "siglaestado": "ES",
+        "nomeestado": "ESPÍRITO SANTO"
+    },
+    {
+        "codestado": 19,
+        "siglaestado": "RJ",
+        "nomeestado": "RIO DE JANEIRO"
+    },
+    {
+        "codestado": 25,
+        "siglaestado": "SP",
+        "nomeestado": "SÃO PAULO"
+    },
+    {
+        "codestado": 16,
+        "siglaestado": "PR",
+        "nomeestado": "PARANÁ"
+    },
+    {
+        "codestado": 24,
+        "siglaestado": "SC",
+        "nomeestado": "SANTA CATARINA"
+    },
+    {
+        "codestado": 21,
+        "siglaestado": "RS",
+        "nomeestado": "RIO GRANDE DO SUL"
+    },
+    {
+        "codestado": 12,
+        "siglaestado": "MS",
+        "nomeestado": "MATO GROSSO DO SUL"
+    },
+    {
+        "codestado": 11,
+        "siglaestado": "MT",
+        "nomeestado": "MATO GROSSO"
+    },
+    {
+        "codestado": 9,
+        "siglaestado": "GO",
+        "nomeestado": "GOIÁS"
+    },
+    {
+        "codestado": 7,
+        "siglaestado": "DF",
+        "nomeestado": "DISTRITO FEDERAL"
+    },
+    {
+        "codestado": 29,
+        "siglaestado": null,
+        "nomeestado": "ESTADO_NC"
+    },
+    {
+        "codestado": 54,
+        "siglaestado": null,
+        "nomeestado": "São Paulo"
+    },
+    {
+        "codestado": 56,
+        "siglaestado": "EX",
+        "nomeestado": "Esterior"
+    },
+    {
+        "codestado": 34,
+        "siglaestado": null,
+        "nomeestado": "Buenos Aires"
+    },
+    {
+        "codestado": 30,
+        "siglaestado": "EX",
+        "nomeestado": "EXTERIOR"
+    },
+    {
+        "codestado": 41,
+        "siglaestado": null,
+        "nomeestado": "California"
+    },
+    {
+        "codestado": 44,
+        "siglaestado": null,
+        "nomeestado": "Querétaro"
+    },
+    {
+        "codestado": 45,
+        "siglaestado": null,
+        "nomeestado": "Lisboa"
+    },
+    {
+        "codestado": 47,
+        "siglaestado": null,
+        "nomeestado": "Vila Real"
+    },
+    {
+        "codestado": 48,
+        "siglaestado": null,
+        "nomeestado": "CA"
+    },
+    {
+        "codestado": 50,
+        "siglaestado": null,
+        "nomeestado": "Minas Gerais"
+    },
+    {
+        "codestado": 52,
+        "siglaestado": null,
+        "nomeestado": "Goias"
+    }
+]

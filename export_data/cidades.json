@@ -1,0 +1,1717 @@
+[
+    {
+        "codcidade": 5634,
+        "cidade": "Elias Fausto",
+        "codestado": 25
+    },
+    {
+        "codcidade": 25,
+        "cidade": "Santa Rosa de Viterbo",
+        "codestado": 25
+    },
+    {
+        "codcidade": 34,
+        "cidade": "Viradouro",
+        "codestado": 25
+    },
+    {
+        "codcidade": 33,
+        "cidade": "Tapiratiba",
+        "codestado": 25
+    },
+    {
+        "codcidade": 31,
+        "cidade": "Serrana",
+        "codestado": 25
+    },
+    {
+        "codcidade": 30,
+        "cidade": "Serra Azul",
+        "codestado": 25
+    },
+    {
+        "codcidade": 17,
+        "cidade": "Mococa",
+        "codestado": 25
+    },
+    {
+        "codcidade": 12,
+        "cidade": "Guariba",
+        "codestado": 25
+    },
+    {
+        "codcidade": 11,
+        "cidade": "Cravinhos",
+        "codestado": 25
+    },
+    {
+        "codcidade": 9,
+        "cidade": "Cajuru",
+        "codestado": 25
+    },
+    {
+        "codcidade": 8,
+        "cidade": "Brodowski",
+        "codestado": 25
+    },
+    {
+        "codcidade": 7,
+        "cidade": "Batatais",
+        "codestado": 25
+    },
+    {
+        "codcidade": 24,
+        "cidade": "Ribas do Rio Pardo",
+        "codestado": 12
+    },
+    {
+        "codcidade": 43,
+        "cidade": "Areado",
+        "codestado": 13
+    },
+    {
+        "codcidade": 16,
+        "cidade": "Luís Antônio",
+        "codestado": 25
+    },
+    {
+        "codcidade": 1,
+        "cidade": "Sertãozinho",
+        "codestado": 25
+    },
+    {
+        "codcidade": 32,
+        "cidade": "Tambaú",
+        "codestado": 25
+    },
+    {
+        "codcidade": 19,
+        "cidade": "Orlândia",
+        "codestado": 25
+    },
+    {
+        "codcidade": 36,
+        "cidade": "São Paulo",
+        "codestado": 25
+    },
+    {
+        "codcidade": 133,
+        "cidade": "Vargem Grande do Sul",
+        "codestado": 25
+    },
+    {
+        "codcidade": 47,
+        "cidade": "Santa Rita do Sapucaí",
+        "codestado": 13
+    },
+    {
+        "codcidade": 48,
+        "cidade": "Curitiba",
+        "codestado": 16
+    },
+    {
+        "codcidade": 49,
+        "cidade": "Igarapava",
+        "codestado": 25
+    },
+    {
+        "codcidade": 50,
+        "cidade": "Caxias do Sul",
+        "codestado": 21
+    },
+    {
+        "codcidade": 51,
+        "cidade": "Santa Cruz do Sul",
+        "codestado": 21
+    },
+    {
+        "codcidade": 52,
+        "cidade": "Canoas",
+        "codestado": 21
+    },
+    {
+        "codcidade": 53,
+        "cidade": "Franca",
+        "codestado": 25
+    },
+    {
+        "codcidade": 54,
+        "cidade": "São José do Rio Pardo",
+        "codestado": 25
+    },
+    {
+        "codcidade": 55,
+        "cidade": "Jundiaí",
+        "codestado": 25
+    },
+    {
+        "codcidade": 56,
+        "cidade": "Bayeux",
+        "codestado": 15
+    },
+    {
+        "codcidade": 110,
+        "cidade": "Guaraci",
+        "codestado": 25
+    },
+    {
+        "codcidade": 58,
+        "cidade": "São Joaquim da Barra",
+        "codestado": 25
+    },
+    {
+        "codcidade": 59,
+        "cidade": "Valinhos",
+        "codestado": 25
+    },
+    {
+        "codcidade": 60,
+        "cidade": "São José dos Campos",
+        "codestado": 25
+    },
+    {
+        "codcidade": 61,
+        "cidade": "Resende",
+        "codestado": 19
+    },
+    {
+        "codcidade": 62,
+        "cidade": "Embu das Artes",
+        "codestado": 25
+    },
+    {
+        "codcidade": 63,
+        "cidade": "Santos",
+        "codestado": 25
+    },
+    {
+        "codcidade": 64,
+        "cidade": "São Bernardo do Campo",
+        "codestado": 25
+    },
+    {
+        "codcidade": 65,
+        "cidade": "Serra",
+        "codestado": 8
+    },
+    {
+        "codcidade": 66,
+        "cidade": "Cubatão",
+        "codestado": 25
+    },
+    {
+        "codcidade": 135,
+        "cidade": "MORRO AGUDO",
+        "codestado": 25
+    },
+    {
+        "codcidade": 68,
+        "cidade": "Niterói",
+        "codestado": 19
+    },
+    {
+        "codcidade": 69,
+        "cidade": "Jandira",
+        "codestado": 25
+    },
+    {
+        "codcidade": 70,
+        "cidade": "Itatiba",
+        "codestado": 25
+    },
+    {
+        "codcidade": 71,
+        "cidade": "Taquaritinga",
+        "codestado": 25
+    },
+    {
+        "codcidade": 72,
+        "cidade": "Itápolis",
+        "codestado": 25
+    },
+    {
+        "codcidade": 73,
+        "cidade": "Araraquara",
+        "codestado": 25
+    },
+    {
+        "codcidade": 74,
+        "cidade": "São José de Ribamar",
+        "codestado": 10
+    },
+    {
+        "codcidade": 75,
+        "cidade": "Lins",
+        "codestado": 25
+    },
+    {
+        "codcidade": 76,
+        "cidade": "Cachoeirinha",
+        "codestado": 21
+    },
+    {
+        "codcidade": 77,
+        "cidade": "Rio de Janeiro",
+        "codestado": 19
+    },
+    {
+        "codcidade": 78,
+        "cidade": "Americana",
+        "codestado": 25
+    },
+    {
+        "codcidade": 79,
+        "cidade": "Santana de Parnaíba",
+        "codestado": 25
+    },
+    {
+        "codcidade": 80,
+        "cidade": "Guatapará",
+        "codestado": 25
+    },
+    {
+        "codcidade": 138,
+        "cidade": "Guaíra",
+        "codestado": 25
+    },
+    {
+        "codcidade": 140,
+        "cidade": "SAO CAETANO DO SUL",
+        "codestado": 25
+    },
+    {
+        "codcidade": 85,
+        "cidade": "Igaratá",
+        "codestado": 25
+    },
+    {
+        "codcidade": 86,
+        "cidade": "Passos",
+        "codestado": 13
+    },
+    {
+        "codcidade": 5635,
+        "cidade": "Boituva",
+        "codestado": 25
+    },
+    {
+        "codcidade": 87,
+        "cidade": "Ferros",
+        "codestado": 13
+    },
+    {
+        "codcidade": 88,
+        "cidade": "Guaxupé",
+        "codestado": 13
+    },
+    {
+        "codcidade": 89,
+        "cidade": "Barretos",
+        "codestado": 25
+    },
+    {
+        "codcidade": 90,
+        "cidade": "Assis",
+        "codestado": 25
+    },
+    {
+        "codcidade": 91,
+        "cidade": "Florianópolis",
+        "codestado": 24
+    },
+    {
+        "codcidade": 92,
+        "cidade": "Belo Horizonte",
+        "codestado": 13
+    },
+    {
+        "codcidade": 93,
+        "cidade": "Divinópolis",
+        "codestado": 13
+    },
+    {
+        "codcidade": 94,
+        "cidade": "Porto Alegre",
+        "codestado": 21
+    },
+    {
+        "codcidade": 96,
+        "cidade": "Jacuí",
+        "codestado": 13
+    },
+    {
+        "codcidade": 97,
+        "cidade": "Ituverava",
+        "codestado": 25
+    },
+    {
+        "codcidade": 98,
+        "cidade": "Barbosa",
+        "codestado": 25
+    },
+    {
+        "codcidade": 99,
+        "cidade": "Miguelópolis",
+        "codestado": 25
+    },
+    {
+        "codcidade": 100,
+        "cidade": "Monte Alto",
+        "codestado": 25
+    },
+    {
+        "codcidade": 45,
+        "cidade": "Brasilia",
+        "codestado": 7
+    },
+    {
+        "codcidade": 113,
+        "cidade": "Bebedouro",
+        "codestado": 25
+    },
+    {
+        "codcidade": 101,
+        "cidade": "São José do Rio Preto",
+        "codestado": 25
+    },
+    {
+        "codcidade": 104,
+        "cidade": "Itupeva",
+        "codestado": 25
+    },
+    {
+        "codcidade": 108,
+        "cidade": "Santo André",
+        "codestado": 25
+    },
+    {
+        "codcidade": 105,
+        "cidade": "Alfenas",
+        "codestado": 13
+    },
+    {
+        "codcidade": 106,
+        "cidade": "Ferraz de Vasconcelos",
+        "codestado": 25
+    },
+    {
+        "codcidade": 107,
+        "cidade": "Santa Cruz das Palmeiras",
+        "codestado": 25
+    },
+    {
+        "codcidade": 109,
+        "cidade": "Aramina",
+        "codestado": 25
+    },
+    {
+        "codcidade": 111,
+        "cidade": "Saquarema",
+        "codestado": 19
+    },
+    {
+        "codcidade": 95,
+        "cidade": "Araras",
+        "codestado": 25
+    },
+    {
+        "codcidade": 28,
+        "cidade": "São Sebastião do Paraíso",
+        "codestado": 13
+    },
+    {
+        "codcidade": 14,
+        "cidade": "Itaú de Minas",
+        "codestado": 13
+    },
+    {
+        "codcidade": 40,
+        "cidade": "Três Corações",
+        "codestado": 13
+    },
+    {
+        "codcidade": 3,
+        "cidade": "Sacramento",
+        "codestado": 13
+    },
+    {
+        "codcidade": 18,
+        "cidade": "Monte Santo de Minas",
+        "codestado": 13
+    },
+    {
+        "codcidade": 13,
+        "cidade": "Itamogi",
+        "codestado": 13
+    },
+    {
+        "codcidade": 5,
+        "cidade": "Altinópolis",
+        "codestado": 25
+    },
+    {
+        "codcidade": 39,
+        "cidade": "Jaú",
+        "codestado": 25
+    },
+    {
+        "codcidade": 29,
+        "cidade": "São Simão",
+        "codestado": 25
+    },
+    {
+        "codcidade": 26,
+        "cidade": "Santo Antônio da Alegria",
+        "codestado": 25
+    },
+    {
+        "codcidade": 22,
+        "cidade": "Santa Cruz da Esperança",
+        "codestado": 25
+    },
+    {
+        "codcidade": 20,
+        "cidade": "Ribeirão Preto",
+        "codestado": 25
+    },
+    {
+        "codcidade": 10,
+        "cidade": "Cássia dos Coqueiros",
+        "codestado": 25
+    },
+    {
+        "codcidade": 15,
+        "cidade": "Jardinópolis",
+        "codestado": 25
+    },
+    {
+        "codcidade": 44,
+        "cidade": "Jaboticabal",
+        "codestado": 25
+    },
+    {
+        "codcidade": 38,
+        "cidade": "Campinas",
+        "codestado": 25
+    },
+    {
+        "codcidade": 37,
+        "cidade": "Barueri",
+        "codestado": 25
+    },
+    {
+        "codcidade": 35,
+        "cidade": "Suzano",
+        "codestado": 25
+    },
+    {
+        "codcidade": 27,
+        "cidade": "Guarulhos",
+        "codestado": 25
+    },
+    {
+        "codcidade": 23,
+        "cidade": "Pirassununga",
+        "codestado": 25
+    },
+    {
+        "codcidade": 21,
+        "cidade": "Porto Ferreira",
+        "codestado": 25
+    },
+    {
+        "codcidade": 4,
+        "cidade": "Indaiatuba",
+        "codestado": 25
+    },
+    {
+        "codcidade": 2,
+        "cidade": "Sorocaba",
+        "codestado": 25
+    },
+    {
+        "codcidade": 119,
+        "cidade": "Itirapuã",
+        "codestado": 25
+    },
+    {
+        "codcidade": 115,
+        "cidade": "Contagem",
+        "codestado": 13
+    },
+    {
+        "codcidade": 112,
+        "cidade": "Diadema",
+        "codestado": 25
+    },
+    {
+        "codcidade": 116,
+        "cidade": "Jaborandi",
+        "codestado": 25
+    },
+    {
+        "codcidade": 120,
+        "cidade": "Peruíbe",
+        "codestado": 25
+    },
+    {
+        "codcidade": 117,
+        "cidade": "Extrema",
+        "codestado": 13
+    },
+    {
+        "codcidade": 118,
+        "cidade": "Ibiraci",
+        "codestado": 13
+    },
+    {
+        "codcidade": 124,
+        "cidade": "Encruzilhada do Sul",
+        "codestado": 21
+    },
+    {
+        "codcidade": 137,
+        "cidade": "BAURU",
+        "codestado": 25
+    },
+    {
+        "codcidade": 125,
+        "cidade": "Itaquaquecetuba",
+        "codestado": 25
+    },
+    {
+        "codcidade": 134,
+        "cidade": "Duque de Caxias",
+        "codestado": 19
+    },
+    {
+        "codcidade": 139,
+        "cidade": "IPUA",
+        "codestado": 25
+    },
+    {
+        "codcidade": 141,
+        "cidade": "Guaratinguetá",
+        "codestado": 25
+    },
+    {
+        "codcidade": 81,
+        "cidade": "Arceburgo",
+        "codestado": 13
+    },
+    {
+        "codcidade": 127,
+        "cidade": "Serra Negra",
+        "codestado": 25
+    },
+    {
+        "codcidade": 128,
+        "cidade": "Santa Gertrudes",
+        "codestado": 25
+    },
+    {
+        "codcidade": 130,
+        "cidade": "São José dos Pinhais",
+        "codestado": 16
+    },
+    {
+        "codcidade": 129,
+        "cidade": "Vassouras",
+        "codestado": 19
+    },
+    {
+        "codcidade": 67,
+        "cidade": "Jurucê",
+        "codestado": 25
+    },
+    {
+        "codcidade": 126,
+        "cidade": "Limeira",
+        "codestado": 25
+    },
+    {
+        "codcidade": 114,
+        "cidade": "São Benedito das Areias",
+        "codestado": 25
+    },
+    {
+        "codcidade": 83,
+        "cidade": "São João da Boa Vista",
+        "codestado": 25
+    },
+    {
+        "codcidade": 123,
+        "cidade": "Uberlândia",
+        "codestado": 13
+    },
+    {
+        "codcidade": 121,
+        "cidade": "Guaranésia",
+        "codestado": 13
+    },
+    {
+        "codcidade": 103,
+        "cidade": "Igaraí",
+        "codestado": 25
+    },
+    {
+        "codcidade": 131,
+        "cidade": "Mogi Mirim",
+        "codestado": 25
+    },
+    {
+        "codcidade": 132,
+        "cidade": "PINHAIS",
+        "codestado": 16
+    },
+    {
+        "codcidade": 143,
+        "cidade": "PORTO REAL",
+        "codestado": 19
+    },
+    {
+        "codcidade": 144,
+        "cidade": "ITU",
+        "codestado": 25
+    },
+    {
+        "codcidade": 145,
+        "cidade": "Cachoeira Dourada",
+        "codestado": 9
+    },
+    {
+        "codcidade": 146,
+        "cidade": "CRISTINA",
+        "codestado": 13
+    },
+    {
+        "codcidade": 147,
+        "cidade": "Dumont",
+        "codestado": 25
+    },
+    {
+        "codcidade": 136,
+        "cidade": "Sales Oliveira",
+        "codestado": 25
+    },
+    {
+        "codcidade": 149,
+        "cidade": "JOSE BONIFACIO",
+        "codestado": 25
+    },
+    {
+        "codcidade": 150,
+        "cidade": "Cuiabá",
+        "codestado": 11
+    },
+    {
+        "codcidade": 151,
+        "cidade": "Cordeirópolis",
+        "codestado": 25
+    },
+    {
+        "codcidade": 152,
+        "cidade": "BLUMENAU",
+        "codestado": 24
+    },
+    {
+        "codcidade": 153,
+        "cidade": "Goiânia",
+        "codestado": 9
+    },
+    {
+        "codcidade": 154,
+        "cidade": "AGUAI",
+        "codestado": 25
+    },
+    {
+        "codcidade": 155,
+        "cidade": "DUARTINA",
+        "codestado": 25
+    },
+    {
+        "codcidade": 156,
+        "cidade": "RECIFE",
+        "codestado": 17
+    },
+    {
+        "codcidade": 157,
+        "cidade": "RIO CLARO",
+        "codestado": 25
+    },
+    {
+        "codcidade": 158,
+        "cidade": "COLOMBO",
+        "codestado": 16
+    },
+    {
+        "codcidade": 159,
+        "cidade": "BORBOREMA",
+        "codestado": 25
+    },
+    {
+        "codcidade": 160,
+        "cidade": "Guará",
+        "codestado": 25
+    },
+    {
+        "codcidade": 161,
+        "cidade": "POUSO ALEGRE",
+        "codestado": 13
+    },
+    {
+        "codcidade": 162,
+        "cidade": "Pitangueiras",
+        "codestado": 25
+    },
+    {
+        "codcidade": 164,
+        "cidade": "MARINGA",
+        "codestado": 16
+    },
+    {
+        "codcidade": 165,
+        "cidade": "CHAPECO",
+        "codestado": 24
+    },
+    {
+        "codcidade": 5636,
+        "cidade": "Rifaina",
+        "codestado": 25
+    },
+    {
+        "codcidade": 168,
+        "cidade": "MATAO",
+        "codestado": 25
+    },
+    {
+        "codcidade": 172,
+        "cidade": "Carapicuíba",
+        "codestado": 25
+    },
+    {
+        "codcidade": 173,
+        "cidade": "POA",
+        "codestado": 25
+    },
+    {
+        "codcidade": 174,
+        "cidade": "Cosmópolis",
+        "codestado": 25
+    },
+    {
+        "codcidade": 177,
+        "cidade": "MARECHAL DEODORO",
+        "codestado": 2
+    },
+    {
+        "codcidade": 179,
+        "cidade": "Porto Velho",
+        "codestado": 22
+    },
+    {
+        "codcidade": 178,
+        "cidade": "Vista Alegre do Abunã",
+        "codestado": 22
+    },
+    {
+        "codcidade": 213,
+        "cidade": "Garça",
+        "codestado": 25
+    },
+    {
+        "codcidade": 220,
+        "cidade": "Caibura",
+        "codestado": 25
+    },
+    {
+        "codcidade": 167,
+        "cidade": "Mirassol",
+        "codestado": 25
+    },
+    {
+        "codcidade": 233,
+        "cidade": "Lajeado",
+        "codestado": 21
+    },
+    {
+        "codcidade": 231,
+        "cidade": "Goiana",
+        "codestado": 17
+    },
+    {
+        "codcidade": 236,
+        "cidade": "Corupa",
+        "codestado": 24
+    },
+    {
+        "codcidade": 242,
+        "cidade": "Eldorado do Sul",
+        "codestado": 21
+    },
+    {
+        "codcidade": 251,
+        "cidade": "Ilhéus",
+        "codestado": 5
+    },
+    {
+        "codcidade": 252,
+        "cidade": "Patrocínio Paulista",
+        "codestado": 25
+    },
+    {
+        "codcidade": 253,
+        "cidade": "Casa Branca",
+        "codestado": 25
+    },
+    {
+        "codcidade": 247,
+        "cidade": "Caruara",
+        "codestado": 25
+    },
+    {
+        "codcidade": 254,
+        "cidade": "CENTRO",
+        "codestado": 0
+    },
+    {
+        "codcidade": 256,
+        "cidade": "VILA ELISA",
+        "codestado": 0
+    },
+    {
+        "codcidade": 259,
+        "cidade": "CIDADE JARDIM",
+        "codestado": 0
+    },
+    {
+        "codcidade": 260,
+        "cidade": "JD. BOA VISTA",
+        "codestado": 0
+    },
+    {
+        "codcidade": 261,
+        "cidade": "RURAL",
+        "codestado": 0
+    },
+    {
+        "codcidade": 262,
+        "cidade": "PAULO CAMILO",
+        "codestado": 0
+    },
+    {
+        "codcidade": 263,
+        "cidade": "Betim",
+        "codestado": 13
+    },
+    {
+        "codcidade": 265,
+        "cidade": "Leme",
+        "codestado": 25
+    },
+    {
+        "codcidade": 275,
+        "cidade": "DISTRITO INDUSTRIAL II",
+        "codestado": 0
+    },
+    {
+        "codcidade": 277,
+        "cidade": "Pratápolis",
+        "codestado": 13
+    },
+    {
+        "codcidade": 278,
+        "cidade": "Araçariguama",
+        "codestado": 25
+    },
+    {
+        "codcidade": 279,
+        "cidade": "União Paulista",
+        "codestado": 25
+    },
+    {
+        "codcidade": 281,
+        "cidade": "Monte Aprazível",
+        "codestado": 25
+    },
+    {
+        "codcidade": 282,
+        "cidade": "CIDADE_NC",
+        "codestado": 5
+    },
+    {
+        "codcidade": 283,
+        "cidade": "São Miguel do Oeste",
+        "codestado": 24
+    },
+    {
+        "codcidade": 284,
+        "cidade": "Pontal",
+        "codestado": 25
+    },
+    {
+        "codcidade": 285,
+        "cidade": "Jeriquara",
+        "codestado": 25
+    },
+    {
+        "codcidade": 286,
+        "cidade": "Morretes",
+        "codestado": 16
+    },
+    {
+        "codcidade": 287,
+        "cidade": "Presidente Prudente",
+        "codestado": 25
+    },
+    {
+        "codcidade": 288,
+        "cidade": "Pradópolis",
+        "codestado": 25
+    },
+    {
+        "codcidade": 290,
+        "cidade": "Cotia",
+        "codestado": 25
+    },
+    {
+        "codcidade": 291,
+        "cidade": "São José da Bela Vista",
+        "codestado": 25
+    },
+    {
+        "codcidade": 292,
+        "cidade": "Arujá",
+        "codestado": 25
+    },
+    {
+        "codcidade": 293,
+        "cidade": "Alto Porã",
+        "codestado": 25
+    },
+    {
+        "codcidade": 294,
+        "cidade": "Ibiúna",
+        "codestado": 25
+    },
+    {
+        "codcidade": 295,
+        "cidade": "Rincão",
+        "codestado": 25
+    },
+    {
+        "codcidade": 296,
+        "cidade": "Fortaleza",
+        "codestado": 6
+    },
+    {
+        "codcidade": 297,
+        "cidade": "Santa Luzia",
+        "codestado": 10
+    },
+    {
+        "codcidade": 3827,
+        "cidade": "São Miguel Arcanjo",
+        "codestado": 25
+    },
+    {
+        "codcidade": 3006,
+        "cidade": "São Tomás de Aquino",
+        "codestado": 13
+    },
+    {
+        "codcidade": 5235,
+        "cidade": "Juína",
+        "codestado": 11
+    },
+    {
+        "codcidade": 5237,
+        "cidade": "Codó",
+        "codestado": 10
+    },
+    {
+        "codcidade": 5238,
+        "cidade": "Sarutaiá",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5239,
+        "cidade": "Aracaju",
+        "codestado": 26
+    },
+    {
+        "codcidade": 5240,
+        "cidade": "Vitória",
+        "codestado": 8
+    },
+    {
+        "codcidade": 5242,
+        "cidade": "Andrelândia",
+        "codestado": 13
+    },
+    {
+        "codcidade": 5243,
+        "cidade": "Olimpia",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5244,
+        "cidade": "Cachoeira de Minas",
+        "codestado": 13
+    },
+    {
+        "codcidade": 5245,
+        "cidade": "Salvador",
+        "codestado": 5
+    },
+    {
+        "codcidade": 5246,
+        "cidade": "Catanduva",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5248,
+        "cidade": "Jaci Paraná",
+        "codestado": 22
+    },
+    {
+        "codcidade": 5249,
+        "cidade": "Aperibé",
+        "codestado": 19
+    },
+    {
+        "codcidade": 5250,
+        "cidade": "Biguaçu",
+        "codestado": 24
+    },
+    {
+        "codcidade": 5251,
+        "cidade": "Belém",
+        "codestado": 14
+    },
+    {
+        "codcidade": 5252,
+        "cidade": "Santa Bárbara D'Oeste",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5253,
+        "cidade": "Barrinha",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5254,
+        "cidade": "Bom Jesus do Galho",
+        "codestado": 13
+    },
+    {
+        "codcidade": 5255,
+        "cidade": "Taubaté",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5256,
+        "cidade": "Campo Bom",
+        "codestado": 21
+    },
+    {
+        "codcidade": 5257,
+        "cidade": "Nipoã",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5258,
+        "cidade": "Motuca",
+        "codestado": 25
+    },
+    {
+        "codcidade": 163,
+        "cidade": "LONDRINA",
+        "codestado": 16
+    },
+    {
+        "codcidade": 5259,
+        "cidade": "Osasco",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5260,
+        "cidade": "Flores da Cunha",
+        "codestado": 21
+    },
+    {
+        "codcidade": 5263,
+        "cidade": "Campo Belo do Sul",
+        "codestado": 24
+    },
+    {
+        "codcidade": 5264,
+        "cidade": "Lages",
+        "codestado": 24
+    },
+    {
+        "codcidade": 5265,
+        "cidade": "Guarujá",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5266,
+        "cidade": "Espirito Santo Do Pinhal",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5637,
+        "cidade": "Rifaina",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5268,
+        "cidade": "Votuporanga",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5269,
+        "cidade": "Caçapava",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5270,
+        "cidade": "Carmo do Cajuru",
+        "codestado": 13
+    },
+    {
+        "codcidade": 5271,
+        "cidade": "Escobar",
+        "codestado": 34
+    },
+    {
+        "codcidade": 5656,
+        "cidade": "Restinga",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5273,
+        "cidade": "Nova Prata",
+        "codestado": 21
+    },
+    {
+        "codcidade": 5657,
+        "cidade": "Macaubal",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5658,
+        "cidade": "Itobi",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5276,
+        "cidade": "Guaramirim",
+        "codestado": 24
+    },
+    {
+        "codcidade": 5277,
+        "cidade": "SAO JERONIMO",
+        "codestado": 21
+    },
+    {
+        "codcidade": 148,
+        "cidade": "São Carlos",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5280,
+        "cidade": "Caieiras",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5282,
+        "cidade": "Sumaré",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5283,
+        "cidade": "Sabino",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5285,
+        "cidade": "Itajaí",
+        "codestado": 24
+    },
+    {
+        "codcidade": 5286,
+        "cidade": "Campo Grande",
+        "codestado": 12
+    },
+    {
+        "codcidade": 5261,
+        "cidade": "EXTERIOR",
+        "codestado": 30
+    },
+    {
+        "codcidade": 5288,
+        "cidade": "São Lourenço do Oeste",
+        "codestado": 24
+    },
+    {
+        "codcidade": 5290,
+        "cidade": "Mendonça",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5513,
+        "cidade": "CANTINHO DAS ARVORES",
+        "codestado": 5
+    },
+    {
+        "codcidade": 5512,
+        "cidade": "Mirandópolis",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5519,
+        "cidade": "Araxá",
+        "codestado": 13
+    },
+    {
+        "codcidade": 5532,
+        "cidade": "Passo Fundo",
+        "codestado": 21
+    },
+    {
+        "codcidade": 5262,
+        "cidade": "Hortolândia",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5289,
+        "cidade": "Santa Rita do Passa Quatro",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5281,
+        "cidade": "Córrego Rico",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5287,
+        "cidade": "Nuporanga",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5279,
+        "cidade": "São Luís Gonzaga do Maranhão",
+        "codestado": 10
+    },
+    {
+        "codcidade": 5638,
+        "cidade": "Gravataí",
+        "codestado": 21
+    },
+    {
+        "codcidade": 5639,
+        "cidade": "Pariquera-Açu",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5640,
+        "cidade": "Brasília",
+        "codestado": 7
+    },
+    {
+        "codcidade": 5531,
+        "cidade": "Teixeira de Freitas",
+        "codestado": 5
+    },
+    {
+        "codcidade": 5533,
+        "cidade": "Teresina",
+        "codestado": 18
+    },
+    {
+        "codcidade": 5641,
+        "cidade": "Adolfo",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5536,
+        "cidade": "Descalvado",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5537,
+        "cidade": "Praia Grande",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5538,
+        "cidade": "Cariacica",
+        "codestado": 8
+    },
+    {
+        "codcidade": 5539,
+        "cidade": "Boracéia",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5540,
+        "cidade": "Almeirim",
+        "codestado": 14
+    },
+    {
+        "codcidade": 5541,
+        "cidade": "Avaí",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5543,
+        "cidade": "Capato",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5545,
+        "cidade": "Jambeiro",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5546,
+        "cidade": "Jataí",
+        "codestado": 9
+    },
+    {
+        "codcidade": 5547,
+        "cidade": "Ilha Grande",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5548,
+        "cidade": "Arapongas",
+        "codestado": 16
+    },
+    {
+        "codcidade": 5549,
+        "cidade": "Padre Bernardo",
+        "codestado": 9
+    },
+    {
+        "codcidade": 5550,
+        "cidade": "Iacri",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5551,
+        "cidade": "Turiúba",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5552,
+        "cidade": "Ingeniero Maschwitz",
+        "codestado": 34
+    },
+    {
+        "codcidade": 5553,
+        "cidade": "Princivali Reis",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5642,
+        "cidade": "Cabo de Santo Agostinho",
+        "codestado": 17
+    },
+    {
+        "codcidade": 5555,
+        "cidade": "São Manuel",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5556,
+        "cidade": "Marília",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5557,
+        "cidade": "Itapevi",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5558,
+        "cidade": "Bom Jesus",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5559,
+        "cidade": "Apucarana",
+        "codestado": 16
+    },
+    {
+        "codcidade": 5560,
+        "cidade": "Novo Horizonte",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5561,
+        "cidade": "Pedregulho",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5562,
+        "cidade": "Santa Rita",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5643,
+        "cidade": "Cruz das Posses",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5644,
+        "cidade": "Manaus",
+        "codestado": 4
+    },
+    {
+        "codcidade": 5565,
+        "cidade": "Macedônia",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5566,
+        "cidade": "Montoro",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5645,
+        "cidade": "Cândido Rodrigues",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5646,
+        "cidade": "Rio do Sul",
+        "codestado": 24
+    },
+    {
+        "codcidade": 5568,
+        "cidade": "Lagoinha",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5647,
+        "cidade": "Irati",
+        "codestado": 16
+    },
+    {
+        "codcidade": 5648,
+        "cidade": "Caraguatatuba",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5649,
+        "cidade": "Nhandeara",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5571,
+        "cidade": "Nhumirim",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5572,
+        "cidade": "Taiúva",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5650,
+        "cidade": "Sales",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5574,
+        "cidade": "Ipojuca",
+        "codestado": 17
+    },
+    {
+        "codcidade": 5575,
+        "cidade": "Santa Ana",
+        "codestado": 41
+    },
+    {
+        "codcidade": 5576,
+        "cidade": "Boa Esperança",
+        "codestado": 13
+    },
+    {
+        "codcidade": 5651,
+        "cidade": "Bom Sucesso",
+        "codestado": 13
+    },
+    {
+        "codcidade": 5652,
+        "cidade": "Alto Paraíso de Goiás",
+        "codestado": 9
+    },
+    {
+        "codcidade": 5653,
+        "cidade": "Muzambinho",
+        "codestado": 13
+    },
+    {
+        "codcidade": 5654,
+        "cidade": "Lençóis Paulista",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5626,
+        "cidade": "Rafard",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5579,
+        "cidade": "Santiago de Querétaro",
+        "codestado": 44
+    },
+    {
+        "codcidade": 5580,
+        "cidade": "Ponta Grossa",
+        "codestado": 16
+    },
+    {
+        "codcidade": 5581,
+        "cidade": "Marconi",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5627,
+        "cidade": "Presidente Alves",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5628,
+        "cidade": "Promissão",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5582,
+        "cidade": "Presidente Venceslau",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5577,
+        "cidade": "Cruz Alta",
+        "codestado": 21
+    },
+    {
+        "codcidade": 5584,
+        "cidade": "Alvorada",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5585,
+        "cidade": "Castelo",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5586,
+        "cidade": "Orange County",
+        "codestado": 48
+    },
+    {
+        "codcidade": 5587,
+        "cidade": "Corinto",
+        "codestado": 13
+    },
+    {
+        "codcidade": 5588,
+        "cidade": "Cachoeira Dos Cavalos",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5630,
+        "cidade": "Araçatuba",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5592,
+        "cidade": "Sertaozinho",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5598,
+        "cidade": "Cássia",
+        "codestado": 13
+    },
+    {
+        "codcidade": 5599,
+        "cidade": "Morro Agudo",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5600,
+        "cidade": "Rio Grande",
+        "codestado": 21
+    },
+    {
+        "codcidade": 5604,
+        "cidade": "Cristais Paulista",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5607,
+        "cidade": "Jacareí",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5608,
+        "cidade": "Santo Andre",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5609,
+        "cidade": "Simieli",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5610,
+        "cidade": "Guaranesia",
+        "codestado": 13
+    },
+    {
+        "codcidade": 5611,
+        "cidade": "Maua",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5612,
+        "cidade": "Acreuna",
+        "codestado": 52
+    },
+    {
+        "codcidade": 5613,
+        "cidade": "Uberlandia",
+        "codestado": 50
+    },
+    {
+        "codcidade": 5631,
+        "cidade": "São Roque",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5632,
+        "cidade": "Divinolândia",
+        "codestado": 25
+    },
+    {
+        "codcidade": 5633,
+        "cidade": "Itajubá",
+        "codestado": 13
+    },
+    {
+        "codcidade": 5614,
+        "cidade": "Amorinopolis",
+        "codestado": 52
+    },
+    {
+        "codcidade": 5602,
+        "cidade": "Bauru",
+        "codestado": 25
+    }
+]

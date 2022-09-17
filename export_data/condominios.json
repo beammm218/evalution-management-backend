@@ -1,0 +1,3082 @@
+[
+    {
+        "codcondominio": 25,
+        "descricao": "RP62 - Condomino Fit Mirante do Sol",
+        "numero": 1511,
+        "cep": "14055490",
+        "bairro": 118
+    },
+    {
+        "codcondominio": 175,
+        "descricao": "Portal Porto D'Italia Residencial",
+        "numero": 201,
+        "cep": "14312170",
+        "bairro": 3471
+    },
+    {
+        "codcondominio": 5,
+        "descricao": "Edificio Carandá Ltda",
+        "numero": 640,
+        "cep": "14026220",
+        "bairro": 519
+    },
+    {
+        "codcondominio": 39,
+        "descricao": "Edifício Centro Empresarial Antares Office",
+        "numero": 1025,
+        "cep": "14026583",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 32,
+        "descricao": "Shopping Plaza Sul",
+        "numero": 1175,
+        "cep": "14022000",
+        "bairro": 640
+    },
+    {
+        "codcondominio": 20,
+        "descricao": "Condomínio Shopping Plaza Sul",
+        "numero": 1175,
+        "cep": "14022000",
+        "bairro": 640
+    },
+    {
+        "codcondominio": 23,
+        "descricao": "Condomino Antares RP09",
+        "numero": 535,
+        "cep": "14240000",
+        "bairro": 44
+    },
+    {
+        "codcondominio": 57,
+        "descricao": "Extra Centro Comercial",
+        "numero": 1617,
+        "cep": "14020260",
+        "bairro": 164
+    },
+    {
+        "codcondominio": 43,
+        "descricao": "Centro de Eventos Taiwan",
+        "numero": 2710,
+        "cep": "14075760",
+        "bairro": 298
+    },
+    {
+        "codcondominio": 3,
+        "descricao": "Condomínio Vivendas do Sul",
+        "numero": 3405,
+        "cep": "14027250",
+        "bairro": 365
+    },
+    {
+        "codcondominio": 63,
+        "descricao": "Condomínio Residencial Lar Canadá",
+        "numero": 1735,
+        "cep": "14060610",
+        "bairro": 118
+    },
+    {
+        "codcondominio": 30,
+        "descricao": "Condomínio Praça dos Pássaros",
+        "numero": 1780,
+        "cep": "14022105",
+        "bairro": 523
+    },
+    {
+        "codcondominio": 12,
+        "descricao": "Condomínio Residencial Nicolau Viana",
+        "numero": 599,
+        "cep": "14061280",
+        "bairro": 115
+    },
+    {
+        "codcondominio": 34,
+        "descricao": "Condomínio Residencial Parque Romanetto",
+        "numero": 1650,
+        "cep": "14098331",
+        "bairro": 955
+    },
+    {
+        "codcondominio": 176,
+        "descricao": "Condomínio Rio Colorado",
+        "numero": 46,
+        "cep": "14098356",
+        "bairro": 1051
+    },
+    {
+        "codcondominio": 13,
+        "descricao": "Condomínio Uirapurus",
+        "numero": 700,
+        "cep": "14031050",
+        "bairro": 151
+    },
+    {
+        "codcondominio": 29,
+        "descricao": "Associação dos Amigos da Praça da Arvores",
+        "numero": 1785,
+        "cep": "14022105",
+        "bairro": 523
+    },
+    {
+        "codcondominio": 49,
+        "descricao": "Condomínio Reserva Domaine Eco Residence",
+        "numero": 650,
+        "cep": "14110000",
+        "bairro": 365
+    },
+    {
+        "codcondominio": 46,
+        "descricao": "Condomínio Bosque do Cerrado",
+        "numero": 630,
+        "cep": "14070530",
+        "bairro": 813
+    },
+    {
+        "codcondominio": 2,
+        "descricao": "Condomínio Recanto do Sul",
+        "numero": 3805,
+        "cep": "14027250",
+        "bairro": 365
+    },
+    {
+        "codcondominio": 17,
+        "descricao": "Condomínio Serra da Canastra",
+        "numero": 501,
+        "cep": "14056275",
+        "bairro": 306
+    },
+    {
+        "codcondominio": 36,
+        "descricao": "Condomínio Itajuba",
+        "numero": 1865,
+        "cep": "14060660",
+        "bairro": 586
+    },
+    {
+        "codcondominio": 24,
+        "descricao": "Condomínio Parque Rosário do Sul",
+        "numero": 325,
+        "cep": "14098300",
+        "bairro": 758
+    },
+    {
+        "codcondominio": 21,
+        "descricao": "Condomínio Reserva Sul Resort",
+        "numero": 215,
+        "cep": "14022320",
+        "bairro": 626
+    },
+    {
+        "codcondominio": 52,
+        "descricao": "Condomínio Royal Garden",
+        "numero": 1100,
+        "cep": "14093230",
+        "bairro": 303
+    },
+    {
+        "codcondominio": 31,
+        "descricao": "Condomínio Parque Renascer",
+        "numero": 1300,
+        "cep": "14098331",
+        "bairro": 866
+    },
+    {
+        "codcondominio": 19,
+        "descricao": "Condomínio Evidence",
+        "numero": 1855,
+        "cep": "14022000",
+        "bairro": 640
+    },
+    {
+        "codcondominio": 66,
+        "descricao": "Condomínio Belize Residence",
+        "numero": 180,
+        "cep": "14051260",
+        "bairro": 356
+    },
+    {
+        "codcondominio": 35,
+        "descricao": "Condomínio Residencial Vitale",
+        "numero": 735,
+        "cep": "14085058",
+        "bairro": 29
+    },
+    {
+        "codcondominio": 56,
+        "descricao": "Ribeirão Shopping Center",
+        "numero": 1540,
+        "cep": "14026900",
+        "bairro": 174
+    },
+    {
+        "codcondominio": 177,
+        "descricao": "Condomínio Lar Suíça",
+        "numero": 880,
+        "cep": "14056071",
+        "bairro": 733
+    },
+    {
+        "codcondominio": 4,
+        "descricao": "Condomínio Praça do Sul",
+        "numero": 3655,
+        "cep": "14027250",
+        "bairro": 365
+    },
+    {
+        "codcondominio": 54,
+        "descricao": "Condomínio Mirante Sul Resort",
+        "numero": 200,
+        "cep": "14022322",
+        "bairro": 1236
+    },
+    {
+        "codcondominio": 64,
+        "descricao": "CONDOMINIO VITTA HEITOR RIGON 2",
+        "numero": 1115,
+        "cep": "14062100",
+        "bairro": 1396
+    },
+    {
+        "codcondominio": 58,
+        "descricao": "Condomínio Reino da Escócia",
+        "numero": 1155,
+        "cep": "14098374",
+        "bairro": 1051
+    },
+    {
+        "codcondominio": 69,
+        "descricao": "Condomínio Residencial São Luiz",
+        "numero": 150,
+        "cep": "14055520",
+        "bairro": 118
+    },
+    {
+        "codcondominio": 68,
+        "descricao": "Condomínio Reserva dos Lagos",
+        "numero": 15,
+        "cep": "14094169",
+        "bairro": 295
+    },
+    {
+        "codcondominio": 71,
+        "descricao": "Condomínio Reino da Inglaterra",
+        "numero": 450,
+        "cep": "14098331",
+        "bairro": 866
+    },
+    {
+        "codcondominio": 47,
+        "descricao": "Condomínio Parque Rebouças",
+        "numero": 160,
+        "cep": "14021520",
+        "bairro": 448
+    },
+    {
+        "codcondominio": 55,
+        "descricao": "Novo Shopping Center",
+        "numero": 1500,
+        "cep": "14096901",
+        "bairro": 333
+    },
+    {
+        "codcondominio": 15,
+        "descricao": "Condomínio Vitta Vila Virgínia I",
+        "numero": 2005,
+        "cep": "14030430",
+        "bairro": 388
+    },
+    {
+        "codcondominio": 91,
+        "descricao": "Condomínio Edifício Residencial Victória",
+        "numero": 355,
+        "cep": "14020640",
+        "bairro": 187
+    },
+    {
+        "codcondominio": 41,
+        "descricao": "Condomínio Praças do Golfe Resort I",
+        "numero": 777,
+        "cep": "14027250",
+        "bairro": 365
+    },
+    {
+        "codcondominio": 38,
+        "descricao": "Condomínio Buona Vita Siena",
+        "numero": 4100,
+        "cep": "14027250",
+        "bairro": 365
+    },
+    {
+        "codcondominio": 53,
+        "descricao": "Condomínio Buona Vita Ribeirão Preto",
+        "numero": 104,
+        "cep": "14110000",
+        "bairro": 365
+    },
+    {
+        "codcondominio": 45,
+        "descricao": "Condomínio Parque Residence",
+        "numero": 795,
+        "cep": "14094160",
+        "bairro": 1828
+    },
+    {
+        "codcondominio": 14,
+        "descricao": "Condomínio Vitta Ipiranga",
+        "numero": 1065,
+        "cep": "14060660",
+        "bairro": 118
+    },
+    {
+        "codcondominio": 178,
+        "descricao": "Condomínio Guaporé 1",
+        "numero": 351,
+        "cep": "14022000",
+        "bairro": 1544
+    },
+    {
+        "codcondominio": 179,
+        "descricao": "Condomínio Residencial Robespierre",
+        "numero": 230,
+        "cep": "14021520",
+        "bairro": 448
+    },
+    {
+        "codcondominio": 180,
+        "descricao": "Condomínio Quinta dos Ventos",
+        "numero": 995,
+        "cep": "14100000",
+        "bairro": 4126
+    },
+    {
+        "codcondominio": 181,
+        "descricao": "Condomínio Torino",
+        "numero": 1107,
+        "cep": "14620000",
+        "bairro": 3035
+    },
+    {
+        "codcondominio": 182,
+        "descricao": "Condomínio Edifício Partata",
+        "numero": 330,
+        "cep": "14026587",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 183,
+        "descricao": "Condomínio Quebec",
+        "numero": 955,
+        "cep": "14620000",
+        "bairro": 2812
+    },
+    {
+        "codcondominio": 184,
+        "descricao": "Edifício Por Do Sol",
+        "numero": 310,
+        "cep": "14055380",
+        "bairro": 2332
+    },
+    {
+        "codcondominio": 59,
+        "descricao": "Condomínio Vitta Vila Virgínia III",
+        "numero": 891,
+        "cep": "14030410",
+        "bairro": 388
+    },
+    {
+        "codcondominio": 10,
+        "descricao": "Condomínio Honduras",
+        "numero": 541,
+        "cep": "14060673",
+        "bairro": 320
+    },
+    {
+        "codcondominio": 8,
+        "descricao": "Condomínio Estados Unidos",
+        "numero": 625,
+        "cep": "14060673",
+        "bairro": 320
+    },
+    {
+        "codcondominio": 11,
+        "descricao": "Condomínio Barbados",
+        "numero": 469,
+        "cep": "14060673",
+        "bairro": 320
+    },
+    {
+        "codcondominio": 6,
+        "descricao": "Condomínio Guiana",
+        "numero": 662,
+        "cep": "14060673",
+        "bairro": 320
+    },
+    {
+        "codcondominio": 7,
+        "descricao": "Condomínio Bahamas",
+        "numero": 626,
+        "cep": "14060673",
+        "bairro": 320
+    },
+    {
+        "codcondominio": 9,
+        "descricao": "Condomínio El Salvador",
+        "numero": 575,
+        "cep": "14060673",
+        "bairro": 320
+    },
+    {
+        "codcondominio": 65,
+        "descricao": "Condomínio Parque das Roseiras",
+        "numero": 1011,
+        "cep": "14060340",
+        "bairro": 118
+    },
+    {
+        "codcondominio": 74,
+        "descricao": "Condomínio Residencial Palos Verdes",
+        "numero": 90,
+        "cep": "14022103",
+        "bairro": 523
+    },
+    {
+        "codcondominio": 81,
+        "descricao": "Cond Residencial Aurora Village",
+        "numero": 2701,
+        "cep": "14110000",
+        "bairro": 21
+    },
+    {
+        "codcondominio": 76,
+        "descricao": "Condomínio Upper Ribeirão",
+        "numero": 100,
+        "cep": "14022102",
+        "bairro": 2286
+    },
+    {
+        "codcondominio": 77,
+        "descricao": "Condomínio Mirante Royal Park",
+        "numero": 1111,
+        "cep": "14110000",
+        "bairro": 651
+    },
+    {
+        "codcondominio": 78,
+        "descricao": "Assoc dos Moradores do Residencial Santa Fé",
+        "numero": 80,
+        "cep": "14110000",
+        "bairro": 651
+    },
+    {
+        "codcondominio": 72,
+        "descricao": "Condomínio Royal Park",
+        "numero": 10,
+        "cep": "14110000",
+        "bairro": 651
+    },
+    {
+        "codcondominio": 82,
+        "descricao": "Condominio Residencial Guapore 3",
+        "numero": 751,
+        "cep": "14022000",
+        "bairro": 2368
+    },
+    {
+        "codcondominio": 83,
+        "descricao": "Condomínio Mil Pássaros",
+        "numero": 7755,
+        "cep": "14093663",
+        "bairro": 830
+    },
+    {
+        "codcondominio": 51,
+        "descricao": "Conjunto Habitacional Juscelino Kubitschek II",
+        "numero": 1325,
+        "cep": "14060340",
+        "bairro": 118
+    },
+    {
+        "codcondominio": 84,
+        "descricao": "Edificio Berlim",
+        "numero": 60,
+        "cep": "14021647",
+        "bairro": 2375
+    },
+    {
+        "codcondominio": 92,
+        "descricao": "Condomínio Edifício Antuérpia",
+        "numero": 925,
+        "cep": "14026583",
+        "bairro": 208
+    },
+    {
+        "codcondominio": 93,
+        "descricao": "Condomínio Village Jardim dos Gerânios",
+        "numero": 0,
+        "cep": "14098800",
+        "bairro": 21
+    },
+    {
+        "codcondominio": 89,
+        "descricao": "Condomínio Residencial Vila Inglesa",
+        "numero": 450,
+        "cep": "14076320",
+        "bairro": 466
+    },
+    {
+        "codcondominio": 88,
+        "descricao": "Condomínio Residencial Villas Di Monaco",
+        "numero": 535,
+        "cep": "14060676",
+        "bairro": 320
+    },
+    {
+        "codcondominio": 86,
+        "descricao": "Cond Edificio Maria Luiza Zucolotto",
+        "numero": 174,
+        "cep": "14350000",
+        "bairro": 802
+    },
+    {
+        "codcondominio": 62,
+        "descricao": "Condomínio Vitta Ribeirão Verde III",
+        "numero": 2105,
+        "cep": "14079070",
+        "bairro": 671
+    },
+    {
+        "codcondominio": 90,
+        "descricao": "Residencial Mil Pássaros",
+        "numero": 7755,
+        "cep": "14093663",
+        "bairro": 840
+    },
+    {
+        "codcondominio": 75,
+        "descricao": "Condomínio Village Monet",
+        "numero": 575,
+        "cep": "14021635",
+        "bairro": 460
+    },
+    {
+        "codcondominio": 79,
+        "descricao": "Condomínio Guapore 2",
+        "numero": 551,
+        "cep": "14022010",
+        "bairro": 460
+    },
+    {
+        "codcondominio": 80,
+        "descricao": "Residencial Belvedere Grand Mirant",
+        "numero": 205,
+        "cep": "14021620",
+        "bairro": 460
+    },
+    {
+        "codcondominio": 50,
+        "descricao": "Condomínio Vitta Ribeirão Verde II",
+        "numero": 2205,
+        "cep": "14079303",
+        "bairro": 671
+    },
+    {
+        "codcondominio": 27,
+        "descricao": "Condomínio Vitta Ribeirão Verde I",
+        "numero": 2255,
+        "cep": "14075405",
+        "bairro": 671
+    },
+    {
+        "codcondominio": 94,
+        "descricao": "Condomínio Edifício Residencial Caiana",
+        "numero": 241,
+        "cep": "14150000",
+        "bairro": 56
+    },
+    {
+        "codcondominio": 95,
+        "descricao": "Condomínio Edifício Figueiras",
+        "numero": 502,
+        "cep": "14150000",
+        "bairro": 56
+    },
+    {
+        "codcondominio": 96,
+        "descricao": "Condomínio Edifício Maison Chablis",
+        "numero": 243,
+        "cep": "05009000",
+        "bairro": 486
+    },
+    {
+        "codcondominio": 97,
+        "descricao": "Condomínio Praça das Flores",
+        "numero": 1050,
+        "cep": "14022090",
+        "bairro": 640
+    },
+    {
+        "codcondominio": 99,
+        "descricao": "Condomínio Edifício Mônaco",
+        "numero": 100,
+        "cep": "14026592",
+        "bairro": 208
+    },
+    {
+        "codcondominio": 98,
+        "descricao": "Condomínio Residencial Cabreuva",
+        "numero": 715,
+        "cep": "14021593",
+        "bairro": 460
+    },
+    {
+        "codcondominio": 100,
+        "descricao": "Edifício Monte Moriah",
+        "numero": 345,
+        "cep": "14026565",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 101,
+        "descricao": "Edifício Prime Office Ribeirão Preto",
+        "numero": 1900,
+        "cep": "14026610",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 16,
+        "descricao": "Condomínio Vitta Vila Virgínia II",
+        "numero": 1215,
+        "cep": "14030410",
+        "bairro": 388
+    },
+    {
+        "codcondominio": 102,
+        "descricao": "Condomínio Residencial Jatobá",
+        "numero": 801,
+        "cep": "14098322",
+        "bairro": 758
+    },
+    {
+        "codcondominio": 104,
+        "descricao": "Condomínio Edifício Rio Das Flores",
+        "numero": 245,
+        "cep": "14095070",
+        "bairro": 299
+    },
+    {
+        "codcondominio": 105,
+        "descricao": "Residencial Villarino",
+        "numero": 601,
+        "cep": "14094169",
+        "bairro": 295
+    },
+    {
+        "codcondominio": 187,
+        "descricao": "Condomínio Edifício Endro",
+        "numero": 335,
+        "cep": "14026587",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 106,
+        "descricao": "Residencial Zurich",
+        "numero": 365,
+        "cep": "14026585",
+        "bairro": 208
+    },
+    {
+        "codcondominio": 108,
+        "descricao": "Condomínio Clube Parque das Árvores",
+        "numero": 100,
+        "cep": "14098320",
+        "bairro": 758
+    },
+    {
+        "codcondominio": 109,
+        "descricao": "Residencial Santorini",
+        "numero": 1900,
+        "cep": "14021610",
+        "bairro": 460
+    },
+    {
+        "codcondominio": 110,
+        "descricao": "Edifício Apollo",
+        "numero": 350,
+        "cep": "14026565",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 111,
+        "descricao": "Residencial Atlanta",
+        "numero": 193,
+        "cep": "14092302",
+        "bairro": 1184
+    },
+    {
+        "codcondominio": 112,
+        "descricao": "Edificio New Office",
+        "numero": 555,
+        "cep": "14096730",
+        "bairro": 481
+    },
+    {
+        "codcondominio": 113,
+        "descricao": "Residencial Buritis",
+        "numero": 3015,
+        "cep": "14022058",
+        "bairro": 2479
+    },
+    {
+        "codcondominio": 85,
+        "descricao": "Condominio Edificio Carlos Chagas",
+        "numero": 235,
+        "cep": "14021633",
+        "bairro": 2375
+    },
+    {
+        "codcondominio": 103,
+        "descricao": "Condomínio Residencial Ribeirânia",
+        "numero": 145,
+        "cep": "14096430",
+        "bairro": 333
+    },
+    {
+        "codcondominio": 70,
+        "descricao": "Condomínio Lar Itália",
+        "numero": 100,
+        "cep": "14079423",
+        "bairro": 683
+    },
+    {
+        "codcondominio": 308,
+        "descricao": "Condominio Village I",
+        "numero": 0,
+        "cep": "14680000",
+        "bairro": 752
+    },
+    {
+        "codcondominio": 114,
+        "descricao": "Condomínio Vision",
+        "numero": 1550,
+        "cep": "14022000",
+        "bairro": 523
+    },
+    {
+        "codcondominio": 60,
+        "descricao": "Condomínio Tapajós",
+        "numero": 250,
+        "cep": "14062035",
+        "bairro": 185
+    },
+    {
+        "codcondominio": 115,
+        "descricao": "Parque Rosa dos Ventos",
+        "numero": 311,
+        "cep": "14093160",
+        "bairro": 748
+    },
+    {
+        "codcondominio": 116,
+        "descricao": "Vitta Jardim Interlagos",
+        "numero": 751,
+        "cep": "14093010",
+        "bairro": 2551
+    },
+    {
+        "codcondominio": 28,
+        "descricao": "Condomínio Vitta Palmares",
+        "numero": 155,
+        "cep": "14092120",
+        "bairro": 1184
+    },
+    {
+        "codcondominio": 118,
+        "descricao": "Les Alpes Residence Belevue",
+        "numero": 200,
+        "cep": "14022032",
+        "bairro": 2341
+    },
+    {
+        "codcondominio": 42,
+        "descricao": "Parque Royal Palace",
+        "numero": 1265,
+        "cep": "14093220",
+        "bairro": 303
+    },
+    {
+        "codcondominio": 117,
+        "descricao": "Les Alpes Residence Bellegarde",
+        "numero": 100,
+        "cep": "14022032",
+        "bairro": 2341
+    },
+    {
+        "codcondominio": 119,
+        "descricao": "Edifício Recanto da Mata",
+        "numero": 600,
+        "cep": "14021575",
+        "bairro": 460
+    },
+    {
+        "codcondominio": 120,
+        "descricao": "CONDOMÍNIO PARQUE JURUA",
+        "numero": 1055,
+        "cep": "14030313",
+        "bairro": 388
+    },
+    {
+        "codcondominio": 121,
+        "descricao": "Condomínio Edifício Recanto da Mata",
+        "numero": 600,
+        "cep": "14021575",
+        "bairro": 460
+    },
+    {
+        "codcondominio": 185,
+        "descricao": "Condomínio Edifício El Shadday",
+        "numero": 406,
+        "cep": "14026590",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 122,
+        "descricao": "Ceagesp",
+        "numero": 4005,
+        "cep": "14072055",
+        "bairro": 713
+    },
+    {
+        "codcondominio": 124,
+        "descricao": "RESIDENCIAL VIDA PLENA RIBEIRÃO",
+        "numero": 551,
+        "cep": "14095020",
+        "bairro": 580
+    },
+    {
+        "codcondominio": 123,
+        "descricao": "RESIDENCIAL MILANO",
+        "numero": 1110,
+        "cep": "14024270",
+        "bairro": 460
+    },
+    {
+        "codcondominio": 125,
+        "descricao": "VITTA VALENTINA",
+        "numero": 350,
+        "cep": "14061660",
+        "bairro": 1157
+    },
+    {
+        "codcondominio": 127,
+        "descricao": "Condomínio Saint Gerard La Bourgogne",
+        "numero": 295,
+        "cep": "14022030",
+        "bairro": 21
+    },
+    {
+        "codcondominio": 128,
+        "descricao": "Condomínio Saint Gerard La Provence",
+        "numero": 295,
+        "cep": "14022030",
+        "bairro": 21
+    },
+    {
+        "codcondominio": 129,
+        "descricao": "Condominio Saint Gerard La Bretagne",
+        "numero": 295,
+        "cep": "14022030",
+        "bairro": 21
+    },
+    {
+        "codcondominio": 131,
+        "descricao": "Praça Fioravantti Fiorotto",
+        "numero": 0,
+        "cep": "14021647",
+        "bairro": 460
+    },
+    {
+        "codcondominio": 132,
+        "descricao": "Edifício Tonani",
+        "numero": 740,
+        "cep": "14026596",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 133,
+        "descricao": "Edifício Iracema",
+        "numero": 505,
+        "cep": "14026583",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 134,
+        "descricao": "Edifício Helena",
+        "numero": 495,
+        "cep": "14026583",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 135,
+        "descricao": "Residence Nova Aliança",
+        "numero": 435,
+        "cep": "14026594",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 126,
+        "descricao": "EDIFÍCIO SANTA MARIA",
+        "numero": 160,
+        "cep": "14026587",
+        "bairro": 1317
+    },
+    {
+        "codcondominio": 147,
+        "descricao": "CONDOMINIO LE NOTRE RESIDENCIAL",
+        "numero": 1015,
+        "cep": "14110000",
+        "bairro": 21
+    },
+    {
+        "codcondominio": 309,
+        "descricao": "Condomínio Edifício Ventura",
+        "numero": 31,
+        "cep": "14020728",
+        "bairro": 2389
+    },
+    {
+        "codcondominio": 137,
+        "descricao": "Condominio Estela",
+        "numero": 1864,
+        "cep": "14026225",
+        "bairro": 2573
+    },
+    {
+        "codcondominio": 138,
+        "descricao": "EDIFICIO STELLA",
+        "numero": 1864,
+        "cep": "14026225",
+        "bairro": 2573
+    },
+    {
+        "codcondominio": 139,
+        "descricao": "CONDOMINIO LE NOTRE RESIDENCIAL",
+        "numero": 1015,
+        "cep": "14110000",
+        "bairro": 21
+    },
+    {
+        "codcondominio": 141,
+        "descricao": "Shopping Santa Úrsula",
+        "numero": 933,
+        "cep": "14010160",
+        "bairro": 1241
+    },
+    {
+        "codcondominio": 144,
+        "descricao": "EDIFICIO VILLE DE LION",
+        "numero": 46,
+        "cep": "14021647",
+        "bairro": 460
+    },
+    {
+        "codcondominio": 145,
+        "descricao": "RESIDENCIAL VERONA",
+        "numero": 1100,
+        "cep": "14024270",
+        "bairro": 1190
+    },
+    {
+        "codcondominio": 149,
+        "descricao": "Edificio Aloha",
+        "numero": 45,
+        "cep": "14021647",
+        "bairro": 460
+    },
+    {
+        "codcondominio": 150,
+        "descricao": "Edificio Everest",
+        "numero": 55,
+        "cep": "14021647",
+        "bairro": 460
+    },
+    {
+        "codcondominio": 151,
+        "descricao": "Edificio Baldin",
+        "numero": 65,
+        "cep": "14021647",
+        "bairro": 460
+    },
+    {
+        "codcondominio": 152,
+        "descricao": "Edificio Forenze",
+        "numero": 85,
+        "cep": "14021647",
+        "bairro": 460
+    },
+    {
+        "codcondominio": 153,
+        "descricao": "Edificio Ilzemare",
+        "numero": 95,
+        "cep": "14021647",
+        "bairro": 460
+    },
+    {
+        "codcondominio": 154,
+        "descricao": "Residencial Ágape",
+        "numero": 105,
+        "cep": "14021647",
+        "bairro": 460
+    },
+    {
+        "codcondominio": 143,
+        "descricao": "ASSOCIACAO DOS AMIGOS DO RESIDENCIAL SAVOIA",
+        "numero": 10,
+        "cep": "13440952",
+        "bairro": 3145
+    },
+    {
+        "codcondominio": 130,
+        "descricao": "EDIFÍCIO ERMELINDA CHAVES",
+        "numero": 360,
+        "cep": "14026587",
+        "bairro": 1317
+    },
+    {
+        "codcondominio": 371,
+        "descricao": "Edifício Santa Rita de Cássia",
+        "numero": 79,
+        "cep": "14090560",
+        "bairro": 580
+    },
+    {
+        "codcondominio": 156,
+        "descricao": "RESIDENCIAL MAIRA",
+        "numero": 1835,
+        "cep": "14021630",
+        "bairro": 460
+    },
+    {
+        "codcondominio": 372,
+        "descricao": "Edificio Primavera",
+        "numero": 386,
+        "cep": "14091150",
+        "bairro": 215
+    },
+    {
+        "codcondominio": 1,
+        "descricao": "Boletos email",
+        "numero": 12345,
+        "cep": "14680000",
+        "bairro": 47
+    },
+    {
+        "codcondominio": 158,
+        "descricao": "Condomínio São José",
+        "numero": 325,
+        "cep": "14680000",
+        "bairro": 47
+    },
+    {
+        "codcondominio": 159,
+        "descricao": "Condomínio Jardim das Palmeiras Gleba B",
+        "numero": 2535,
+        "cep": "14078405",
+        "bairro": 959
+    },
+    {
+        "codcondominio": 146,
+        "descricao": "RESIDENCIAL PRIMA VISTA",
+        "numero": 345,
+        "cep": "14026574",
+        "bairro": 1317
+    },
+    {
+        "codcondominio": 107,
+        "descricao": "Residencial Ribeirânia",
+        "numero": 145,
+        "cep": "14096430",
+        "bairro": 333
+    },
+    {
+        "codcondominio": 148,
+        "descricao": "Condomínio Vila Igapó",
+        "numero": 25,
+        "cep": "14021647",
+        "bairro": 2375
+    },
+    {
+        "codcondominio": 160,
+        "descricao": "Residencial Greenpark",
+        "numero": 400,
+        "cep": "14096175",
+        "bairro": 333
+    },
+    {
+        "codcondominio": 161,
+        "descricao": "Parque Reino da Inglaterra",
+        "numero": 405,
+        "cep": "14098331",
+        "bairro": 1838
+    },
+    {
+        "codcondominio": 162,
+        "descricao": "Residencial dos Diamantes",
+        "numero": 888,
+        "cep": "14060290",
+        "bairro": 118
+    },
+    {
+        "codcondominio": 163,
+        "descricao": "RESIDENCIAL SIRIUS",
+        "numero": 385,
+        "cep": "14240000",
+        "bairro": 90
+    },
+    {
+        "codcondominio": 164,
+        "descricao": "CONDOMINIO EDIFICIO CIDADE DE MUNIQUE",
+        "numero": 206,
+        "cep": "14021686",
+        "bairro": 1071
+    },
+    {
+        "codcondominio": 165,
+        "descricao": "EDIFICIO PATAMARES",
+        "numero": 2761,
+        "cep": "14060570",
+        "bairro": 118
+    },
+    {
+        "codcondominio": 166,
+        "descricao": "RESIDENCIAL RIO BELAYA",
+        "numero": 395,
+        "cep": "14095070",
+        "bairro": 2661
+    },
+    {
+        "codcondominio": 167,
+        "descricao": "Residencial Jardins de Provence",
+        "numero": 616,
+        "cep": "14096440",
+        "bairro": 333
+    },
+    {
+        "codcondominio": 44,
+        "descricao": "Condomínio Residencial Villarino",
+        "numero": 601,
+        "cep": "14094169",
+        "bairro": 1828
+    },
+    {
+        "codcondominio": 186,
+        "descricao": "Condomínio Edifício Montes Claros",
+        "numero": 343,
+        "cep": "14051330",
+        "bairro": 356
+    },
+    {
+        "codcondominio": 169,
+        "descricao": "Edifício Mirage",
+        "numero": 1635,
+        "cep": "14022104",
+        "bairro": 2286
+    },
+    {
+        "codcondominio": 170,
+        "descricao": "VITTA RECANTO DOS LAGOS",
+        "numero": 65,
+        "cep": "14094243",
+        "bairro": 1126
+    },
+    {
+        "codcondominio": 171,
+        "descricao": "Condomínio Vitta Serrana",
+        "numero": 608,
+        "cep": "14150000",
+        "bairro": 56
+    },
+    {
+        "codcondominio": 172,
+        "descricao": "Condomínio Residencial Villagio San Luigi",
+        "numero": 1511,
+        "cep": "14680000",
+        "bairro": 47
+    },
+    {
+        "codcondominio": 173,
+        "descricao": "Residencial Mirante do Ipê",
+        "numero": 560,
+        "cep": "14027650",
+        "bairro": 4086
+    },
+    {
+        "codcondominio": 174,
+        "descricao": "Centro Empresarial Castelo Branco",
+        "numero": 855,
+        "cep": "14096570",
+        "bairro": 3864
+    },
+    {
+        "codcondominio": 188,
+        "descricao": "Condomínio Edifício Itaguaré",
+        "numero": 305,
+        "cep": "14021647",
+        "bairro": 460
+    },
+    {
+        "codcondominio": 189,
+        "descricao": "Rua Amadeu Amaral",
+        "numero": 142,
+        "cep": "14020050",
+        "bairro": 509
+    },
+    {
+        "codcondominio": 190,
+        "descricao": "Condomínio Jardim Eldorado",
+        "numero": 1355,
+        "cep": "14079795",
+        "bairro": 798
+    },
+    {
+        "codcondominio": 191,
+        "descricao": "Condomínio Edifício Aquiles",
+        "numero": 395,
+        "cep": "14026594",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 192,
+        "descricao": "Condomínio Vila Nova Jerusalém",
+        "numero": 101,
+        "cep": "14680000",
+        "bairro": 2927
+    },
+    {
+        "codcondominio": 193,
+        "descricao": "Residencial Mirante das Águas",
+        "numero": 0,
+        "cep": "14240000",
+        "bairro": 4167
+    },
+    {
+        "codcondominio": 194,
+        "descricao": "Condomínio Edificio Scarpas",
+        "numero": 111,
+        "cep": "14095070",
+        "bairro": 299
+    },
+    {
+        "codcondominio": 195,
+        "descricao": "Condomínio Residencial Colorado Hill",
+        "numero": 60,
+        "cep": "14021585",
+        "bairro": 460
+    },
+    {
+        "codcondominio": 196,
+        "descricao": "Condomínio Residencial Estação Primavera",
+        "numero": 1231,
+        "cep": "14026390",
+        "bairro": 1391
+    },
+    {
+        "codcondominio": 197,
+        "descricao": "Condomínio Xingú",
+        "numero": 510,
+        "cep": "14020590",
+        "bairro": 187
+    },
+    {
+        "codcondominio": 199,
+        "descricao": "Condomínio Itatiba",
+        "numero": 347,
+        "cep": "14090130",
+        "bairro": 1178
+    },
+    {
+        "codcondominio": 200,
+        "descricao": "Condomínio Conjunto Habitacional J2",
+        "numero": 450,
+        "cep": "14057426",
+        "bairro": 2807
+    },
+    {
+        "codcondominio": 201,
+        "descricao": "Condomínio Ouro Fino",
+        "numero": 2410,
+        "cep": "14030680",
+        "bairro": 744
+    },
+    {
+        "codcondominio": 202,
+        "descricao": "Edifício Olimag",
+        "numero": 760,
+        "cep": "14020570",
+        "bairro": 2318
+    },
+    {
+        "codcondominio": 203,
+        "descricao": "Edificio Guaraúna",
+        "numero": 181,
+        "cep": "14021640",
+        "bairro": 460
+    },
+    {
+        "codcondominio": 204,
+        "descricao": "Condomínio Edificio Alleanza",
+        "numero": 325,
+        "cep": "14026583",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 205,
+        "descricao": "Condomínio Vila Do Bosque",
+        "numero": 425,
+        "cep": "14079600",
+        "bairro": 2767
+    },
+    {
+        "codcondominio": 206,
+        "descricao": "Condomínio Residencial Lorena",
+        "numero": 680,
+        "cep": "14110000",
+        "bairro": 21
+    },
+    {
+        "codcondominio": 207,
+        "descricao": "Condominio Edificio Teresopolis",
+        "numero": 99,
+        "cep": "14026350",
+        "bairro": 1391
+    },
+    {
+        "codcondominio": 208,
+        "descricao": "Centro Empresarial Atrium",
+        "numero": 788,
+        "cep": "14026040",
+        "bairro": 785
+    },
+    {
+        "codcondominio": 209,
+        "descricao": "Condomínio Edifício Camburi",
+        "numero": 425,
+        "cep": "14026586",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 210,
+        "descricao": "Condomínio Residencial Itaim",
+        "numero": 2998,
+        "cep": "14300000",
+        "bairro": 3468
+    },
+    {
+        "codcondominio": 198,
+        "descricao": "Edificio Atol",
+        "numero": 610,
+        "cep": "14020340",
+        "bairro": 187
+    },
+    {
+        "codcondominio": 157,
+        "descricao": "Edifício Figueira",
+        "numero": 210,
+        "cep": "14026594",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 155,
+        "descricao": "Condomínio Orfeu Paraventi Sobrinho",
+        "numero": 350,
+        "cep": "14093000",
+        "bairro": 142
+    },
+    {
+        "codcondominio": 211,
+        "descricao": "Condomínio Villaggio Belluno",
+        "numero": 95,
+        "cep": "14096630",
+        "bairro": 481
+    },
+    {
+        "codcondominio": 212,
+        "descricao": "Edifício Austin Gardens I",
+        "numero": 190,
+        "cep": "14026596",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 213,
+        "descricao": "Condomínio Santa Clara",
+        "numero": 55,
+        "cep": "14026350",
+        "bairro": 1391
+    },
+    {
+        "codcondominio": 214,
+        "descricao": "Condomínio Residencial Morumbi",
+        "numero": 2976,
+        "cep": "14300000",
+        "bairro": 3468
+    },
+    {
+        "codcondominio": 215,
+        "descricao": "Condomínio Três Marias",
+        "numero": 801,
+        "cep": "14240000",
+        "bairro": 137
+    },
+    {
+        "codcondominio": 216,
+        "descricao": "Condomínio Edifício Manoela Maria",
+        "numero": 205,
+        "cep": "14020689",
+        "bairro": 2389
+    },
+    {
+        "codcondominio": 217,
+        "descricao": "Condomínio Edifício Le Monde - Avenue",
+        "numero": 1075,
+        "cep": "14021655",
+        "bairro": 2375
+    },
+    {
+        "codcondominio": 218,
+        "descricao": "Condomínio Edifício Le Monde - Parc",
+        "numero": 1136,
+        "cep": "14021630",
+        "bairro": 460
+    },
+    {
+        "codcondominio": 219,
+        "descricao": "Condomínio Edifício Isla Verde",
+        "numero": 105,
+        "cep": "14026593",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 220,
+        "descricao": "Condomínio Edificio Villaggio Imola",
+        "numero": 710,
+        "cep": "14096175",
+        "bairro": 3654
+    },
+    {
+        "codcondominio": 221,
+        "descricao": "Condomínio Edifício Apiácas",
+        "numero": 381,
+        "cep": "14020680",
+        "bairro": 2389
+    },
+    {
+        "codcondominio": 222,
+        "descricao": "Condomínio Residencial Letícia",
+        "numero": 130,
+        "cep": "14091220",
+        "bairro": 876
+    },
+    {
+        "codcondominio": 223,
+        "descricao": "Condomínio Edifício Samaria",
+        "numero": 1231,
+        "cep": "14020280",
+        "bairro": 2318
+    },
+    {
+        "codcondominio": 224,
+        "descricao": "Condomínio Edifício Maria Alves Zaparolli",
+        "numero": 1215,
+        "cep": "14090210",
+        "bairro": 1178
+    },
+    {
+        "codcondominio": 225,
+        "descricao": "Vila Versuti Condomínio Residencial",
+        "numero": 287,
+        "cep": "14051290",
+        "bairro": 356
+    },
+    {
+        "codcondominio": 226,
+        "descricao": "Condomínio Residencial Boca",
+        "numero": 220,
+        "cep": "14300000",
+        "bairro": 3483
+    },
+    {
+        "codcondominio": 227,
+        "descricao": "Condomínio Edifício Maria Neves",
+        "numero": 736,
+        "cep": "14020340",
+        "bairro": 187
+    },
+    {
+        "codcondominio": 228,
+        "descricao": "Residencial Rejane",
+        "numero": 320,
+        "cep": "14091310",
+        "bairro": 313
+    },
+    {
+        "codcondominio": 229,
+        "descricao": "Condomínio Itamaraty",
+        "numero": 185,
+        "cep": "14020630",
+        "bairro": 1164
+    },
+    {
+        "codcondominio": 230,
+        "descricao": "Condomínio Edifício Ático",
+        "numero": 205,
+        "cep": "14026587",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 231,
+        "descricao": "Condomínio Vitta Campos Elíseos",
+        "numero": 145,
+        "cep": "14080620",
+        "bairro": 29
+    },
+    {
+        "codcondominio": 232,
+        "descricao": "Condomínio Edificio Osvaldo",
+        "numero": 1058,
+        "cep": "14015100",
+        "bairro": 50
+    },
+    {
+        "codcondominio": 233,
+        "descricao": "Condomínio Edifício Juliana",
+        "numero": 585,
+        "cep": "14095050",
+        "bairro": 299
+    },
+    {
+        "codcondominio": 234,
+        "descricao": "Condomínio Edifício Silvia",
+        "numero": 580,
+        "cep": "14026080",
+        "bairro": 174
+    },
+    {
+        "codcondominio": 235,
+        "descricao": "Condomínio Edifício Indaia",
+        "numero": 1647,
+        "cep": "14085230",
+        "bairro": 743
+    },
+    {
+        "codcondominio": 236,
+        "descricao": "Edifício Jardim de Versailles",
+        "numero": 125,
+        "cep": "14021658",
+        "bairro": 2375
+    },
+    {
+        "codcondominio": 237,
+        "descricao": "Condomínio Edificio Firenze",
+        "numero": 155,
+        "cep": "14026587",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 238,
+        "descricao": "Condomínio Residencial Zaíra Pupim",
+        "numero": 975,
+        "cep": "14300000",
+        "bairro": 3471
+    },
+    {
+        "codcondominio": 239,
+        "descricao": "Condomínio Edifício Celso Patelli",
+        "numero": 1244,
+        "cep": "14015120",
+        "bairro": 50
+    },
+    {
+        "codcondominio": 240,
+        "descricao": "Condominio Residencial Villa Sorrento",
+        "numero": 51,
+        "cep": "14060670",
+        "bairro": 320
+    },
+    {
+        "codcondominio": 241,
+        "descricao": "Condominio Edificio Villa Di Napoli",
+        "numero": 634,
+        "cep": "14020520",
+        "bairro": 2318
+    },
+    {
+        "codcondominio": 242,
+        "descricao": "Condomínio Edifício Spazio Uno",
+        "numero": 921,
+        "cep": "14015060",
+        "bairro": 50
+    },
+    {
+        "codcondominio": 243,
+        "descricao": "Condomínio Edifício Riviera",
+        "numero": 1446,
+        "cep": "14090230",
+        "bairro": 1178
+    },
+    {
+        "codcondominio": 244,
+        "descricao": "Condomínio Moradas Nova Planalto I",
+        "numero": 571,
+        "cep": "14056742",
+        "bairro": 2365
+    },
+    {
+        "codcondominio": 245,
+        "descricao": "Condomínio Residencial São Silvestre",
+        "numero": 20,
+        "cep": "14055285",
+        "bairro": 356
+    },
+    {
+        "codcondominio": 246,
+        "descricao": "Condomínio Residencial Villa Tambau",
+        "numero": 0,
+        "cep": "14021587",
+        "bairro": 2375
+    },
+    {
+        "codcondominio": 247,
+        "descricao": "Residencial La Concorde",
+        "numero": 170,
+        "cep": "14020640",
+        "bairro": 2318
+    },
+    {
+        "codcondominio": 248,
+        "descricao": "Residencial Itapua",
+        "numero": 40,
+        "cep": "14883354",
+        "bairro": 2766
+    },
+    {
+        "codcondominio": 249,
+        "descricao": "Edifício Monte Alegre",
+        "numero": 1311,
+        "cep": "14051080",
+        "bairro": 744
+    },
+    {
+        "codcondominio": 250,
+        "descricao": "Condomínio Edifício Laranjeiras",
+        "numero": 442,
+        "cep": "14020530",
+        "bairro": 2318
+    },
+    {
+        "codcondominio": 251,
+        "descricao": "Condomínio Almeida",
+        "numero": 913,
+        "cep": "14051160",
+        "bairro": 744
+    },
+    {
+        "codcondominio": 252,
+        "descricao": "Condomínio Edifício Jardim Macedo",
+        "numero": 642,
+        "cep": "14090180",
+        "bairro": 215
+    },
+    {
+        "codcondominio": 253,
+        "descricao": "Residencial Mário Roberto",
+        "numero": 1297,
+        "cep": "14051140",
+        "bairro": 744
+    },
+    {
+        "codcondominio": 254,
+        "descricao": "Condomínio Edifício Residencial Sumarezinho",
+        "numero": 476,
+        "cep": "14055150",
+        "bairro": 356
+    },
+    {
+        "codcondominio": 255,
+        "descricao": "Condomínio Edifício Alameda Dos Ipês",
+        "numero": 719,
+        "cep": "14020630",
+        "bairro": 187
+    },
+    {
+        "codcondominio": 256,
+        "descricao": "Edifício Residencial Sevilha",
+        "numero": 395,
+        "cep": "14080200",
+        "bairro": 29
+    },
+    {
+        "codcondominio": 257,
+        "descricao": "Condomínio Edifício Zita Maffud Secaf",
+        "numero": 565,
+        "cep": "14091010",
+        "bairro": 1280
+    },
+    {
+        "codcondominio": 258,
+        "descricao": "Condominio Edificio Portal Do Mosteiro",
+        "numero": 2198,
+        "cep": "14085520",
+        "bairro": 29
+    },
+    {
+        "codcondominio": 259,
+        "descricao": "Condomínio Edifício Santo Antônio",
+        "numero": 97,
+        "cep": "14090092",
+        "bairro": 1178
+    },
+    {
+        "codcondominio": 260,
+        "descricao": "Edifico Perola Branca",
+        "numero": 300,
+        "cep": "14026230",
+        "bairro": 519
+    },
+    {
+        "codcondominio": 261,
+        "descricao": "Edificio Danubio",
+        "numero": 1546,
+        "cep": "14015060",
+        "bairro": 50
+    },
+    {
+        "codcondominio": 262,
+        "descricao": "Condomínio Residencial Florida",
+        "numero": 273,
+        "cep": "14020650",
+        "bairro": 187
+    },
+    {
+        "codcondominio": 264,
+        "descricao": "Associação Comercial e Ind de Ribeirão Preto",
+        "numero": 489,
+        "cep": "14010100",
+        "bairro": 50
+    },
+    {
+        "codcondominio": 265,
+        "descricao": "Condomínio Toplife Orlando",
+        "numero": 565,
+        "cep": "14093-15",
+        "bairro": 748
+    },
+    {
+        "codcondominio": 266,
+        "descricao": "Edifico Residencial Cadiz",
+        "numero": 385,
+        "cep": "14080200",
+        "bairro": 29
+    },
+    {
+        "codcondominio": 267,
+        "descricao": "Condomínio Edifício Mariana Goulart",
+        "numero": 443,
+        "cep": "14085510",
+        "bairro": 3784
+    },
+    {
+        "codcondominio": 263,
+        "descricao": "Condomínio Edifício Acapulco",
+        "numero": 2200,
+        "cep": "14025710",
+        "bairro": 9
+    },
+    {
+        "codcondominio": 268,
+        "descricao": "Condomínio Edifício Baviera",
+        "numero": 514,
+        "cep": "14026220",
+        "bairro": 519
+    },
+    {
+        "codcondominio": 269,
+        "descricao": "Condomínio 200 A",
+        "numero": 526,
+        "cep": "14095510",
+        "bairro": 3482
+    },
+    {
+        "codcondominio": 270,
+        "descricao": "Condomínio Edifício Sauber",
+        "numero": 466,
+        "cep": "14026210",
+        "bairro": 519
+    },
+    {
+        "codcondominio": 272,
+        "descricao": "Condomínio Edifício Noruega",
+        "numero": 1725,
+        "cep": "14090200",
+        "bairro": 215
+    },
+    {
+        "codcondominio": 273,
+        "descricao": "Conjunto Habitacional Ribeirão Preto",
+        "numero": 250,
+        "cep": "14057426",
+        "bairro": 2807
+    },
+    {
+        "codcondominio": 274,
+        "descricao": "Condomínio Residencial Erika",
+        "numero": 144,
+        "cep": "14021680",
+        "bairro": 1725
+    },
+    {
+        "codcondominio": 275,
+        "descricao": "Condomínio Cheyenne",
+        "numero": 494,
+        "cep": "14020600",
+        "bairro": 2318
+    },
+    {
+        "codcondominio": 276,
+        "descricao": "Condomínio Residencial Vista Alegre",
+        "numero": 319,
+        "cep": "14033020",
+        "bairro": 4218
+    },
+    {
+        "codcondominio": 277,
+        "descricao": "Condomínio Edifício Piauí",
+        "numero": 189,
+        "cep": "14092560",
+        "bairro": 753
+    },
+    {
+        "codcondominio": 278,
+        "descricao": "Condomínio Vila das Flores",
+        "numero": 1359,
+        "cep": "14094239",
+        "bairro": 1126
+    },
+    {
+        "codcondominio": 279,
+        "descricao": "Condomínio Trio Ribeirão",
+        "numero": 1265,
+        "cep": "14020260",
+        "bairro": 1092
+    },
+    {
+        "codcondominio": 271,
+        "descricao": "Condomínio Edifício Valu",
+        "numero": 1513,
+        "cep": "12308320",
+        "bairro": 50
+    },
+    {
+        "codcondominio": 280,
+        "descricao": "Condomínio Edifício Monte Carmel Spe",
+        "numero": 315,
+        "cep": "14021619",
+        "bairro": 2375
+    },
+    {
+        "codcondominio": 281,
+        "descricao": "Condomínio Edifício Millennium",
+        "numero": 558,
+        "cep": "14095060",
+        "bairro": 299
+    },
+    {
+        "codcondominio": 282,
+        "descricao": "Condomínio Edifício Santa Luzia",
+        "numero": 465,
+        "cep": "14091220",
+        "bairro": 876
+    },
+    {
+        "codcondominio": 283,
+        "descricao": "Condomínio Residencial Jardins de Florença",
+        "numero": 125,
+        "cep": "14096430",
+        "bairro": 333
+    },
+    {
+        "codcondominio": 284,
+        "descricao": "Condominio Palacio de Windsor",
+        "numero": 655,
+        "cep": "14094640",
+        "bairro": 2510
+    },
+    {
+        "codcondominio": 285,
+        "descricao": "Condomínio Residencial Atibaia",
+        "numero": 881,
+        "cep": "14090405",
+        "bairro": 294
+    },
+    {
+        "codcondominio": 286,
+        "descricao": "Condomínio Trio Home Ribeirão Preto",
+        "numero": 445,
+        "cep": "14020470",
+        "bairro": 1279
+    },
+    {
+        "codcondominio": 287,
+        "descricao": "Condomínio da Serra",
+        "numero": 635,
+        "cep": "13670000",
+        "bairro": 3545
+    },
+    {
+        "codcondominio": 288,
+        "descricao": "Condomínio Edifício Madre Paulina",
+        "numero": 373,
+        "cep": "14095070",
+        "bairro": 299
+    },
+    {
+        "codcondominio": 289,
+        "descricao": "Condomínio Civitas Mall",
+        "numero": 1465,
+        "cep": "14020340",
+        "bairro": 460
+    },
+    {
+        "codcondominio": 290,
+        "descricao": "Condomino Mario Chiariello",
+        "numero": 1900,
+        "cep": "14031050",
+        "bairro": 151
+    },
+    {
+        "codcondominio": 291,
+        "descricao": "Condomínio Residencial Leblon",
+        "numero": 970,
+        "cep": "14079298",
+        "bairro": 671
+    },
+    {
+        "codcondominio": 292,
+        "descricao": "Condomínio Edificio Rubi",
+        "numero": 469,
+        "cep": "14090092",
+        "bairro": 1178
+    },
+    {
+        "codcondominio": 293,
+        "descricao": "Residencial Lumnesia",
+        "numero": 1075,
+        "cep": "1402657",
+        "bairro": 208
+    },
+    {
+        "codcondominio": 294,
+        "descricao": "Condomínio Parc Villa",
+        "numero": 155,
+        "cep": "14030216",
+        "bairro": 3887
+    },
+    {
+        "codcondominio": 295,
+        "descricao": "Condomínio Residencial Copacabana",
+        "numero": 935,
+        "cep": "14079298",
+        "bairro": 671
+    },
+    {
+        "codcondominio": 296,
+        "descricao": "Condomínio Edifício Estevan Antonio de Morais",
+        "numero": 395,
+        "cep": "14026240",
+        "bairro": 519
+    },
+    {
+        "codcondominio": 297,
+        "descricao": "Condomínio Terras de Santa Ana",
+        "numero": 235,
+        "cep": "14037130",
+        "bairro": 4269
+    },
+    {
+        "codcondominio": 298,
+        "descricao": "Condomínio Gris Residence",
+        "numero": 55,
+        "cep": "14090348",
+        "bairro": 134
+    },
+    {
+        "codcondominio": 299,
+        "descricao": "Condomínio Edifício Independência",
+        "numero": 336,
+        "cep": "14076460",
+        "bairro": 754
+    },
+    {
+        "codcondominio": 300,
+        "descricao": "Condomínio Edifício Toscana",
+        "numero": 209,
+        "cep": "14020520",
+        "bairro": 2318
+    },
+    {
+        "codcondominio": 301,
+        "descricao": "Condomínio Ana Luiza",
+        "numero": 179,
+        "cep": "14092550",
+        "bairro": 753
+    },
+    {
+        "codcondominio": 302,
+        "descricao": "Condomínio Edifício Leite",
+        "numero": 61,
+        "cep": "14010060",
+        "bairro": 50
+    },
+    {
+        "codcondominio": 303,
+        "descricao": "Condomínio Portofino Residencial",
+        "numero": 592,
+        "cep": "14096440",
+        "bairro": 333
+    },
+    {
+        "codcondominio": 304,
+        "descricao": "Condomínio Edifício Veneto",
+        "numero": 70,
+        "cep": "14020570",
+        "bairro": 2318
+    },
+    {
+        "codcondominio": 305,
+        "descricao": "Condomínio Fit Parque Lagoinha",
+        "numero": 101,
+        "cep": "14093017",
+        "bairro": 1828
+    },
+    {
+        "codcondominio": 306,
+        "descricao": "Condomínio Edifício Arthemi",
+        "numero": 1497,
+        "cep": "12308320",
+        "bairro": 50
+    },
+    {
+        "codcondominio": 307,
+        "descricao": "Condomínio Residencial Parque dos Tamarindos",
+        "numero": 90,
+        "cep": "14092182",
+        "bairro": 1270
+    },
+    {
+        "codcondominio": 310,
+        "descricao": "Condomínio Residencial Morada Tropical",
+        "numero": 747,
+        "cep": "14090092",
+        "bairro": 1178
+    },
+    {
+        "codcondominio": 311,
+        "descricao": "Condomínio Edifício Ametista",
+        "numero": 253,
+        "cep": "14020620",
+        "bairro": 785
+    },
+    {
+        "codcondominio": 312,
+        "descricao": "Condomínio Denise",
+        "numero": 177,
+        "cep": "14055230",
+        "bairro": 356
+    },
+    {
+        "codcondominio": 314,
+        "descricao": "Condomínio Recreio Internacional",
+        "numero": 89,
+        "cep": "14094582",
+        "bairro": 978
+    },
+    {
+        "codcondominio": 313,
+        "descricao": "(Cond Sem nome) Alameda Américo Falasco, 45, Jardi",
+        "numero": 45,
+        "cep": "14.027-0",
+        "bairro": 1254
+    },
+    {
+        "codcondominio": 316,
+        "descricao": "Edifício Moyses Antônio Mellin",
+        "numero": 61,
+        "cep": "14.025-1",
+        "bairro": 1057
+    },
+    {
+        "codcondominio": 317,
+        "descricao": "Condomínio Edifício Fenix",
+        "numero": 157,
+        "cep": "14025140",
+        "bairro": 1057
+    },
+    {
+        "codcondominio": 318,
+        "descricao": "Condomínio Edifício Icapara",
+        "numero": 1242,
+        "cep": "14051080",
+        "bairro": 744
+    },
+    {
+        "codcondominio": 319,
+        "descricao": "Edifício Rio Solimões",
+        "numero": 70,
+        "cep": "14026591",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 320,
+        "descricao": "Residencial Nioac",
+        "numero": 337,
+        "cep": "14051250",
+        "bairro": 744
+    },
+    {
+        "codcondominio": 321,
+        "descricao": "Condominio Grand Raya",
+        "numero": 777,
+        "cep": "14021617",
+        "bairro": 2375
+    },
+    {
+        "codcondominio": 322,
+        "descricao": "Edifício Bermudas",
+        "numero": 440,
+        "cep": "14091140",
+        "bairro": 876
+    },
+    {
+        "codcondominio": 323,
+        "descricao": "Condominio Sabara",
+        "numero": 219,
+        "cep": "14010090",
+        "bairro": 50
+    },
+    {
+        "codcondominio": 324,
+        "descricao": "Centro Profissional Ribeirão Shopping",
+        "numero": 1520,
+        "cep": "14026020",
+        "bairro": 2573
+    },
+    {
+        "codcondominio": 325,
+        "descricao": "Condomínio Residencial Arabutan",
+        "numero": 189,
+        "cep": "14025130",
+        "bairro": 3785
+    },
+    {
+        "codcondominio": 326,
+        "descricao": "Condomínio Beira Rio",
+        "numero": 0,
+        "cep": "14680000",
+        "bairro": 752
+    },
+    {
+        "codcondominio": 327,
+        "descricao": "Edifício Siena",
+        "numero": 65,
+        "cep": "14020685",
+        "bairro": 2389
+    },
+    {
+        "codcondominio": 328,
+        "descricao": "Edifício Merighi",
+        "numero": 1726,
+        "cep": "14090345",
+        "bairro": 134
+    },
+    {
+        "codcondominio": 329,
+        "descricao": "Edifício Pennsylvania",
+        "numero": 1500,
+        "cep": "14020610",
+        "bairro": 187
+    },
+    {
+        "codcondominio": 330,
+        "descricao": "Edifício Dalai",
+        "numero": 85,
+        "cep": "14026593",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 331,
+        "descricao": "Edificio Aida Pais",
+        "numero": 553,
+        "cep": "14050160",
+        "bairro": 510
+    },
+    {
+        "codcondominio": 332,
+        "descricao": "Condomínio Residencial Via do Café",
+        "numero": 1825,
+        "cep": "14050230",
+        "bairro": 1325
+    },
+    {
+        "codcondominio": 333,
+        "descricao": "Condominio Villa Real",
+        "numero": 430,
+        "cep": "14110000",
+        "bairro": 3614
+    },
+    {
+        "codcondominio": 334,
+        "descricao": "Condomínio Residencial Edifício Panazollo",
+        "numero": 175,
+        "cep": "14096430",
+        "bairro": 333
+    },
+    {
+        "codcondominio": 335,
+        "descricao": "(Cond sem nome) R Benjamin Constant 117",
+        "numero": 117,
+        "cep": "14300000",
+        "bairro": 756
+    },
+    {
+        "codcondominio": 336,
+        "descricao": "CONDOMÍNIO VITTA PARQUE DOS PINUS",
+        "numero": 1170,
+        "cep": "14062019",
+        "bairro": 1396
+    },
+    {
+        "codcondominio": 337,
+        "descricao": "Condomínio Residencial Oliveira",
+        "numero": 18,
+        "cep": "14350000",
+        "bairro": 41
+    },
+    {
+        "codcondominio": 338,
+        "descricao": "Condomínio Luiz e Luiza Trivilato",
+        "numero": 1603,
+        "cep": "14020028",
+        "bairro": 509
+    },
+    {
+        "codcondominio": 339,
+        "descricao": "Edifício Comercial Priscila",
+        "numero": 934,
+        "cep": "14020500",
+        "bairro": 1279
+    },
+    {
+        "codcondominio": 340,
+        "descricao": "Condominio Edificio Villaggio 3",
+        "numero": 81,
+        "cep": "14056120",
+        "bairro": 1238
+    },
+    {
+        "codcondominio": 341,
+        "descricao": "(Cond sem nome) Rua José Bernardi 55",
+        "numero": 55,
+        "cep": "14050477",
+        "bairro": 510
+    },
+    {
+        "codcondominio": 342,
+        "descricao": "Condomínio Arábica Residence",
+        "numero": 2177,
+        "cep": "14050230",
+        "bairro": 1325
+    },
+    {
+        "codcondominio": 343,
+        "descricao": "Condomínio Edifício Guarucaia",
+        "numero": 1912,
+        "cep": "14020733",
+        "bairro": 750
+    },
+    {
+        "codcondominio": 344,
+        "descricao": "Residencial Blue Note Fiusa",
+        "numero": 2009,
+        "cep": "14024250",
+        "bairro": 460
+    },
+    {
+        "codcondominio": 345,
+        "descricao": "Condominio Residencial Solar das Aves",
+        "numero": 100,
+        "cep": "14027025",
+        "bairro": 209
+    },
+    {
+        "codcondominio": 346,
+        "descricao": "Residencial Três Marias",
+        "numero": 2339,
+        "cep": "14025110",
+        "bairro": 3582
+    },
+    {
+        "codcondominio": 347,
+        "descricao": "Condomínio Edifício Solar Village",
+        "numero": 1235,
+        "cep": "14090040",
+        "bairro": 1178
+    },
+    {
+        "codcondominio": 348,
+        "descricao": "Condomínio Vale Nevada",
+        "numero": 1026,
+        "cep": "14020630",
+        "bairro": 187
+    },
+    {
+        "codcondominio": 349,
+        "descricao": "Residencial Tangará",
+        "numero": 71,
+        "cep": "14021577",
+        "bairro": 2375
+    },
+    {
+        "codcondominio": 350,
+        "descricao": "Condomínio Edifício Matisse",
+        "numero": 901,
+        "cep": "14021617",
+        "bairro": 2375
+    },
+    {
+        "codcondominio": 351,
+        "descricao": "CONDOMINIO RESIDENCIAL QUERUBINS",
+        "numero": 58,
+        "cep": "14056450",
+        "bairro": 306
+    },
+    {
+        "codcondominio": 352,
+        "descricao": "Condomínio Residencial Florida",
+        "numero": 273,
+        "cep": "14020650",
+        "bairro": 187
+    },
+    {
+        "codcondominio": 353,
+        "descricao": "Condomínio Edificio Azaleia",
+        "numero": 1972,
+        "cep": "14050220",
+        "bairro": 510
+    },
+    {
+        "codcondominio": 354,
+        "descricao": "Condomínio Edifício Senna",
+        "numero": 179,
+        "cep": "14020520",
+        "bairro": 2318
+    },
+    {
+        "codcondominio": 355,
+        "descricao": "CONDOMÍNIO EDIFÍCIO PIONEIRO",
+        "numero": 1285,
+        "cep": "14021655",
+        "bairro": 2375
+    },
+    {
+        "codcondominio": 356,
+        "descricao": "Condomínio Edifício Giovanna",
+        "numero": 888,
+        "cep": "14020380",
+        "bairro": 681
+    },
+    {
+        "codcondominio": 357,
+        "descricao": "EDIFICIO LUIZ PEDRO",
+        "numero": 1591,
+        "cep": "14020300",
+        "bairro": 187
+    },
+    {
+        "codcondominio": 358,
+        "descricao": "Condomínio Name Nahas",
+        "numero": 962,
+        "cep": "14020288",
+        "bairro": 187
+    },
+    {
+        "codcondominio": 359,
+        "descricao": "Condomínio Residencial Anita Farnesi",
+        "numero": 755,
+        "cep": "14050030",
+        "bairro": 510
+    },
+    {
+        "codcondominio": 360,
+        "descricao": "Condomínio Arco Iris",
+        "numero": 535,
+        "cep": "14091150",
+        "bairro": 215
+    },
+    {
+        "codcondominio": 361,
+        "descricao": "Condomínio Residencial Carlito 2",
+        "numero": 167,
+        "cep": "14091120",
+        "bairro": 1001
+    },
+    {
+        "codcondominio": 362,
+        "descricao": "Condomínio UP 100 PALMARES",
+        "numero": 100,
+        "cep": "14092560",
+        "bairro": 753
+    },
+    {
+        "codcondominio": 363,
+        "descricao": "Condomínio Jale",
+        "numero": 660,
+        "cep": "14095060",
+        "bairro": 299
+    },
+    {
+        "codcondominio": 364,
+        "descricao": "Condomínio São Lourenço",
+        "numero": 655,
+        "cep": "14095060",
+        "bairro": 299
+    },
+    {
+        "codcondominio": 365,
+        "descricao": "Condomínio Genova",
+        "numero": 1255,
+        "cep": "14090240",
+        "bairro": 1178
+    },
+    {
+        "codcondominio": 366,
+        "descricao": "Condomínio Residencial das Nações",
+        "numero": 130,
+        "cep": "14094160",
+        "bairro": 1828
+    },
+    {
+        "codcondominio": 367,
+        "descricao": "Condomínio Veneza",
+        "numero": 320,
+        "cep": "14090180",
+        "bairro": 215
+    },
+    {
+        "codcondominio": 368,
+        "descricao": "Condomínio Residencial Nimari",
+        "numero": 650,
+        "cep": "14095060",
+        "bairro": 299
+    },
+    {
+        "codcondominio": 369,
+        "descricao": "Edifício Pedro Santilli",
+        "numero": 607,
+        "cep": "14026100",
+        "bairro": 3668
+    },
+    {
+        "codcondominio": 370,
+        "descricao": "Edifício Rosa Tavares",
+        "numero": 330,
+        "cep": "14091220",
+        "bairro": 876
+    },
+    {
+        "codcondominio": 373,
+        "descricao": "Edifício Ville Unique",
+        "numero": 1753,
+        "cep": "14026225",
+        "bairro": 519
+    },
+    {
+        "codcondominio": 374,
+        "descricao": "Condomínio Residencial Edifício Juriti",
+        "numero": 52,
+        "cep": "14021682",
+        "bairro": 1725
+    },
+    {
+        "codcondominio": 376,
+        "descricao": "Condomínio Residencial Vila Margarida",
+        "numero": 685,
+        "cep": "14061280",
+        "bairro": 115
+    },
+    {
+        "codcondominio": 377,
+        "descricao": "Condomínio Residencial Gábia",
+        "numero": 290,
+        "cep": "14026565",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 378,
+        "descricao": "Condomínio Rosa Reato",
+        "numero": 455,
+        "cep": "14026585",
+        "bairro": 208
+    },
+    {
+        "codcondominio": 379,
+        "descricao": "Condomínio Residencial Guido Carnio",
+        "numero": 170,
+        "cep": "14026564",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 380,
+        "descricao": "Edifício Itamambuca",
+        "numero": 526,
+        "cep": "14026220",
+        "bairro": 519
+    },
+    {
+        "codcondominio": 381,
+        "descricao": "Edifício Enzo",
+        "numero": 150,
+        "cep": "14026590",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 382,
+        "descricao": "Condomínio Edifício Castanheira",
+        "numero": 330,
+        "cep": "14026590",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 383,
+        "descricao": "CONDOMINIO UP 200 SUMAREZINHO",
+        "numero": 200,
+        "cep": "14055370",
+        "bairro": 2332
+    },
+    {
+        "codcondominio": 384,
+        "descricao": "Edifício Vila Real",
+        "numero": 769,
+        "cep": "14095260",
+        "bairro": 299
+    },
+    {
+        "codcondominio": 385,
+        "descricao": "Condomínio Estrela Amanhã",
+        "numero": 561,
+        "cep": "14026220",
+        "bairro": 519
+    },
+    {
+        "codcondominio": 386,
+        "descricao": "Condomínio Cabo Frio",
+        "numero": 46,
+        "cep": "14021645",
+        "bairro": 2375
+    },
+    {
+        "codcondominio": 387,
+        "descricao": "Condomínio Flórida",
+        "numero": 149,
+        "cep": "14026350",
+        "bairro": 1391
+    },
+    {
+        "codcondominio": 388,
+        "descricao": "Residencial Loria",
+        "numero": 233,
+        "cep": "14085030",
+        "bairro": 29
+    },
+    {
+        "codcondominio": 389,
+        "descricao": "Residencial Ibalsair Alvarenga",
+        "numero": 1600,
+        "cep": "14020300",
+        "bairro": 681
+    },
+    {
+        "codcondominio": 390,
+        "descricao": "Condomínio Melissa Prado",
+        "numero": 996,
+        "cep": "14020610",
+        "bairro": 187
+    },
+    {
+        "codcondominio": 391,
+        "descricao": "(Cond sem nome) R. Mal. Mascarenhas de Morais, 745",
+        "numero": 745,
+        "cep": "14095120",
+        "bairro": 660
+    },
+    {
+        "codcondominio": 392,
+        "descricao": "Edifício Teodolinda Alves Ferreira",
+        "numero": 146,
+        "cep": "14090150",
+        "bairro": 1178
+    },
+    {
+        "codcondominio": 393,
+        "descricao": "RESIDENCIAL TOPAZIO (09 APT)",
+        "numero": 637,
+        "cep": "14091180",
+        "bairro": 876
+    },
+    {
+        "codcondominio": 394,
+        "descricao": "CONDOMINIO PROF. PLINIO A. FURTADO",
+        "numero": 556,
+        "cep": "14020620",
+        "bairro": 785
+    },
+    {
+        "codcondominio": 395,
+        "descricao": "Condomínio Wilson Carnio Gentil",
+        "numero": 118,
+        "cep": "14024180",
+        "bairro": 785
+    },
+    {
+        "codcondominio": 396,
+        "descricao": "(Cond sem nome) R Abrahão Issa Halach- 595",
+        "numero": 595,
+        "cep": "14096160",
+        "bairro": 333
+    },
+    {
+        "codcondominio": 398,
+        "descricao": "Edifício Taife (08 APT)",
+        "numero": 45,
+        "cep": "14021595",
+        "bairro": 2375
+    },
+    {
+        "codcondominio": 399,
+        "descricao": "Galeria Zona Zul",
+        "numero": 1870,
+        "cep": "14020340",
+        "bairro": 187
+    },
+    {
+        "codcondominio": 400,
+        "descricao": "(Cond sem nome) R. Jordão Fávero, 510",
+        "numero": 510,
+        "cep": "14095060",
+        "bairro": 299
+    },
+    {
+        "codcondominio": 401,
+        "descricao": "Condomínio Joaquim De Freitas Alves  (12 APT)",
+        "numero": 23,
+        "cep": "14020682",
+        "bairro": 2389
+    },
+    {
+        "codcondominio": 402,
+        "descricao": "Edificio Mirante Da Mata",
+        "numero": 455,
+        "cep": "14026587",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 403,
+        "descricao": "Condomínio Residencial Villas do Parque",
+        "numero": 170,
+        "cep": "14096010",
+        "bairro": 333
+    },
+    {
+        "codcondominio": 404,
+        "descricao": "Associação dos Moradores Do Reserva San Tiago Bols",
+        "numero": 68,
+        "cep": "14096000",
+        "bairro": 21
+    },
+    {
+        "codcondominio": 405,
+        "descricao": "Condomínio Terras de San Mateus",
+        "numero": 1290,
+        "cep": "14037111",
+        "bairro": 4269
+    },
+    {
+        "codcondominio": 406,
+        "descricao": "Edifício Santa Lucia",
+        "numero": 986,
+        "cep": "14020610",
+        "bairro": 187
+    },
+    {
+        "codcondominio": 408,
+        "descricao": "Edifício Mônaco",
+        "numero": 610,
+        "cep": "14026220",
+        "bairro": 519
+    },
+    {
+        "codcondominio": 409,
+        "descricao": "Condomínio Residencial Ana Maria",
+        "numero": 172,
+        "cep": "14026200",
+        "bairro": 519
+    },
+    {
+        "codcondominio": 410,
+        "descricao": "Condomínio Comercial Via Allegra",
+        "numero": 1091,
+        "cep": "14020500",
+        "bairro": 1279
+    },
+    {
+        "codcondominio": 411,
+        "descricao": "CONDOMINIO EDIFICIO TRIANON",
+        "numero": 603,
+        "cep": "14024190",
+        "bairro": 1164
+    },
+    {
+        "codcondominio": 412,
+        "descricao": "CONDOMINIO EDIFICIO PARANA",
+        "numero": 45,
+        "cep": "14.092-5",
+        "bairro": 753
+    },
+    {
+        "codcondominio": 413,
+        "descricao": "Condomínio Panoramic Residence",
+        "numero": 180,
+        "cep": "14026572",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 414,
+        "descricao": "Condomínio Ilha de Santorini",
+        "numero": 160,
+        "cep": "14090170",
+        "bairro": 1178
+    },
+    {
+        "codcondominio": 415,
+        "descricao": "Edifício Albino Nayme",
+        "numero": 38,
+        "cep": "14.020-0",
+        "bairro": 509
+    },
+    {
+        "codcondominio": 416,
+        "descricao": "Condomínio Orlando Lopes da Costa",
+        "numero": 728,
+        "cep": "14091240",
+        "bairro": 876
+    },
+    {
+        "codcondominio": 417,
+        "descricao": "Condominio Mediterraneo Residencial Flat",
+        "numero": 1200,
+        "cep": "14021590",
+        "bairro": 460
+    },
+    {
+        "codcondominio": 418,
+        "descricao": "Condomínio Edifício Luara",
+        "numero": 105,
+        "cep": "14026590",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 419,
+        "descricao": "Condomínio Edifício Pérola",
+        "numero": 210,
+        "cep": "14026590",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 420,
+        "descricao": "Condomínio Edifício Torino",
+        "numero": 170,
+        "cep": "14026590",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 421,
+        "descricao": "Condomínio Edifício Maruane",
+        "numero": 115,
+        "cep": "14026590",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 422,
+        "descricao": "Condomínio Edifício Tiago",
+        "numero": 200,
+        "cep": "14026590",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 423,
+        "descricao": "Condomínio Rio Marselha",
+        "numero": 161,
+        "cep": "14061304",
+        "bairro": 115
+    },
+    {
+        "codcondominio": 424,
+        "descricao": "(Cond sem nome) R Catarina Ap Navis Silva 315",
+        "numero": 315,
+        "cep": "14026565",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 425,
+        "descricao": "Condomínio Edifício Sapucaia",
+        "numero": 322,
+        "cep": "14026656",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 426,
+        "descricao": "Condomínio Edifício Costa Rica",
+        "numero": 280,
+        "cep": "14026565",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 427,
+        "descricao": "Condomínio Residencial Onofre",
+        "numero": 86,
+        "cep": "14021645",
+        "bairro": 2375
+    },
+    {
+        "codcondominio": 428,
+        "descricao": "Condomínio Edifício São Francisco",
+        "numero": 210,
+        "cep": "14026587",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 429,
+        "descricao": "Condomínio Edifício Adelino Bianco",
+        "numero": 215,
+        "cep": "14026587",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 430,
+        "descricao": "Condomínio Edifício Mainá",
+        "numero": 220,
+        "cep": "14026587",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 431,
+        "descricao": "Condodmínio Edifício Portland",
+        "numero": 96,
+        "cep": "14021645",
+        "bairro": 2375
+    },
+    {
+        "codcondominio": 432,
+        "descricao": "Condomínio Edifício Montpellier",
+        "numero": 1821,
+        "cep": "14020733",
+        "bairro": 750
+    },
+    {
+        "codcondominio": 433,
+        "descricao": "Condomínio Pinheiros",
+        "numero": 220,
+        "cep": "14870000",
+        "bairro": 2764
+    },
+    {
+        "codcondominio": 434,
+        "descricao": "Condomínio América Loft",
+        "numero": 245,
+        "cep": "14026587",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 435,
+        "descricao": "Condomínio Edifício Edimburgo",
+        "numero": 76,
+        "cep": "14021645",
+        "bairro": 2375
+    },
+    {
+        "codcondominio": 436,
+        "descricao": "Condomínio Maria Alice",
+        "numero": 510,
+        "cep": "14095060",
+        "bairro": 299
+    },
+    {
+        "codcondominio": 437,
+        "descricao": "(Cond sem nome) R. Jordão Fávero, 450",
+        "numero": 450,
+        "cep": "14095060",
+        "bairro": 299
+    },
+    {
+        "codcondominio": 438,
+        "descricao": "ACIRP - Associação Comercial e Industrial de Ribei",
+        "numero": 489,
+        "cep": "14010100",
+        "bairro": 50
+    },
+    {
+        "codcondominio": 439,
+        "descricao": "Edifício Treviso",
+        "numero": 389,
+        "cep": "14090180",
+        "bairro": 215
+    },
+    {
+        "codcondominio": 440,
+        "descricao": "Edifício Lara",
+        "numero": 440,
+        "cep": "14026596",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 441,
+        "descricao": "Condomínio Edifício San Remo",
+        "numero": 644,
+        "cep": "14090112",
+        "bairro": 1178
+    },
+    {
+        "codcondominio": 442,
+        "descricao": "Condominio Edificio Teresa",
+        "numero": 195,
+        "cep": "14026590",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 443,
+        "descricao": "Condomínio Edifício Buritama",
+        "numero": 190,
+        "cep": "14026594",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 444,
+        "descricao": "Condominio Edificio Quebec",
+        "numero": 105,
+        "cep": "14021585",
+        "bairro": 2375
+    },
+    {
+        "codcondominio": 445,
+        "descricao": "Edifício comercial -  Grão nobre cafés especiais",
+        "numero": 1525,
+        "cep": "14020340",
+        "bairro": 187
+    },
+    {
+        "codcondominio": 446,
+        "descricao": "Condomínio Colina do Golf",
+        "numero": 2975,
+        "cep": "14027250",
+        "bairro": 365
+    },
+    {
+        "codcondominio": 447,
+        "descricao": "Condomínio Isla Lagoinha",
+        "numero": 350,
+        "cep": "14095110",
+        "bairro": 299
+    },
+    {
+        "codcondominio": 448,
+        "descricao": "Condomínio Uruguai Brio",
+        "numero": 1030,
+        "cep": "14094236",
+        "bairro": 4132
+    },
+    {
+        "codcondominio": 449,
+        "descricao": "Condomínio Edifício Cartier Tower",
+        "numero": 1075,
+        "cep": "14010180",
+        "bairro": 50
+    },
+    {
+        "codcondominio": 450,
+        "descricao": "Edificio Luzerne",
+        "numero": 60,
+        "cep": "14026594",
+        "bairro": 729
+    },
+    {
+        "codcondominio": 451,
+        "descricao": "Condomínio Alto da boa Vista",
+        "numero": 210,
+        "cep": "14025690",
+        "bairro": 9
+    },
+    {
+        "codcondominio": 452,
+        "descricao": "Condomínio Residencial Amazonas",
+        "numero": 100,
+        "cep": "14091010",
+        "bairro": 876
+    },
+    {
+        "codcondominio": 453,
+        "descricao": "Condomínio Residencial Bela Vista",
+        "numero": 1151,
+        "cep": "14056440",
+        "bairro": 306
+    },
+    {
+        "codcondominio": 397,
+        "descricao": "(Cond sem nome) Rua Dom Bosco, 319",
+        "numero": 319,
+        "cep": "14300000",
+        "bairro": 756
+    },
+    {
+        "codcondominio": 454,
+        "descricao": "Sindico Idineia lopes Rua lafaiete 2032 126 061 63",
+        "numero": 2450,
+        "cep": "14020000",
+        "bairro": 509
+    },
+    {
+        "codcondominio": 455,
+        "descricao": "CONDOMÍNIO EDIFÍCIO ATIBAIA",
+        "numero": 169,
+        "cep": "14090140",
+        "bairro": 1178
+    },
+    {
+        "codcondominio": 456,
+        "descricao": "Condomínio Gold V",
+        "numero": 375,
+        "cep": "14096730",
+        "bairro": 481
+    },
+    {
+        "codcondominio": 457,
+        "descricao": "Edifício Santa Maria",
+        "numero": 69,
+        "cep": "14026350",
+        "bairro": 1391
+    },
+    {
+        "codcondominio": 458,
+        "descricao": "CONDOMINIO EDIFICIO GRAND HILL",
+        "numero": 355,
+        "cep": "14021647",
+        "bairro": 460
+    }
+]
